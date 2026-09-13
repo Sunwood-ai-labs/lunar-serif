@@ -421,31 +421,31 @@
   },
   "uni30CE": {
     "char": "ノ",
-    "advance": 850
+    "advance": 800
   },
   "uni30AF": {
     "char": "ク",
-    "advance": 850
+    "advance": 800
   },
   "uni30C6": {
     "char": "テ",
-    "advance": 850
+    "advance": 800
   },
   "uni30A3": {
     "char": "ィ",
-    "advance": 850
+    "advance": 800
   },
   "uni30BB": {
     "char": "セ",
-    "advance": 850
+    "advance": 800
   },
   "uni30FC": {
     "char": "ー",
-    "advance": 850
+    "advance": 800
   },
   "uni30CC": {
     "char": "ヌ",
-    "advance": 850
+    "advance": 800
   },
   "uni306B": {
     "char": "に",
@@ -457,23 +457,23 @@
   },
   "uni3001": {
     "char": "、",
-    "advance": 450
+    "advance": 350
   },
   "uni3002": {
     "char": "。",
-    "advance": 450
+    "advance": 350
   },
   "uni4F59": {
     "char": "余",
-    "advance": 950
+    "advance": 850
   },
   "uni591C": {
     "char": "夜",
-    "advance": 950
+    "advance": 850
   },
   "uni97FB": {
     "char": "韻",
-    "advance": 950
+    "advance": 850
   },
   ".notdef": {
     "char": null,

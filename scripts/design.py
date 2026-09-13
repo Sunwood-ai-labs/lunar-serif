@@ -206,6 +206,13 @@ for c in 'ノクティセーヌにを':
 for c in '夜余韻': G[f'uni{ord(c):04X}']['width']=950
 for c in '、。': G[f'uni{ord(c):04X}']['width']=450
 
+# Reference-derived Japanese overrides retain the original concept brush shapes.
+reference_source=ROOT/'sources/japanese-reference.json'
+if reference_source.exists():
+    for name,g in json.loads(reference_source.read_text(encoding='utf-8')).items():
+        put(g['char'],g['advance'],''.join(p['path'] for p in g['contours']))
+        HOLES.update(p['path'] for p in g['contours'] if p['hole'])
+
 # .notdef is conspicuous and never silently substitutes an unrelated typeface.
 notdef_hole=polygon([(82,22),(82,678),(518,678),(518,22)])
 HOLES.add(notdef_hole)
