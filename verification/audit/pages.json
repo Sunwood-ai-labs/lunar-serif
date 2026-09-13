@@ -1,0 +1,168 @@
+{
+  "upper-1": [
+    "uni0041",
+    "uni0042",
+    "uni0043",
+    "uni0044",
+    "uni0045",
+    "uni0046"
+  ],
+  "upper-2": [
+    "uni0047",
+    "uni0048",
+    "uni0049",
+    "uni004A",
+    "uni004B",
+    "uni004C"
+  ],
+  "upper-3": [
+    "uni004D",
+    "uni004E",
+    "uni004F",
+    "uni0050",
+    "uni0051",
+    "uni0052"
+  ],
+  "upper-4": [
+    "uni0053",
+    "uni0054",
+    "uni0055",
+    "uni0056",
+    "uni0057",
+    "uni0058"
+  ],
+  "upper-5": [
+    "uni0059",
+    "uni005A"
+  ],
+  "digits-1": [
+    "uni0030",
+    "uni0031",
+    "uni0032",
+    "uni0033",
+    "uni0034",
+    "uni0035"
+  ],
+  "digits-2": [
+    "uni0036",
+    "uni0037",
+    "uni0038",
+    "uni0039"
+  ],
+  "lower-1": [
+    "uni0061",
+    "uni0062",
+    "uni0063",
+    "uni0064",
+    "uni0065",
+    "uni0066"
+  ],
+  "lower-2": [
+    "uni0067",
+    "uni0068",
+    "uni0069",
+    "uni006A",
+    "uni006B",
+    "uni006C"
+  ],
+  "lower-3": [
+    "uni006D",
+    "uni006E",
+    "uni006F",
+    "uni0070",
+    "uni0071",
+    "uni0072"
+  ],
+  "lower-4": [
+    "uni0073",
+    "uni0074",
+    "uni0075",
+    "uni0076",
+    "uni0077",
+    "uni0078"
+  ],
+  "lower-5": [
+    "uni0079",
+    "uni007A"
+  ],
+  "japanese-1": [
+    "uni30CE",
+    "uni30AF",
+    "uni30C6",
+    "uni30A3",
+    "uni30BB",
+    "uni30FC"
+  ],
+  "japanese-2": [
+    "uni30CC",
+    "uni306B",
+    "uni3092",
+    "uni3001",
+    "uni3002",
+    "uni4F59"
+  ],
+  "japanese-3": [
+    "uni591C",
+    "uni97FB"
+  ],
+  "symbols-1": [
+    "uni0020",
+    "uni00A0",
+    "uni002E",
+    "uni002C",
+    "uni003A",
+    "uni003B"
+  ],
+  "symbols-2": [
+    "uni0021",
+    "uni003F",
+    "uni002D",
+    "uni2013",
+    "uni2014",
+    "uni005F"
+  ],
+  "symbols-3": [
+    "uni002F",
+    "uni005C",
+    "uni007C",
+    "uni0028",
+    "uni0029",
+    "uni005B"
+  ],
+  "symbols-4": [
+    "uni005D",
+    "uni007B",
+    "uni007D",
+    "uni0027",
+    "uni0022",
+    "uni0060"
+  ],
+  "symbols-5": [
+    "uni005E",
+    "uni007E",
+    "uni002B",
+    "uni003D",
+    "uni003C",
+    "uni003E"
+  ],
+  "symbols-6": [
+    "uni002A",
+    "uni0023",
+    "uni0024",
+    "uni0025",
+    "uni0026",
+    "uni0040"
+  ],
+  "symbols-7": [
+    "uni2018",
+    "uni2019",
+    "uni201C",
+    "uni201D",
+    "uni2026",
+    "uni00D7"
+  ],
+  "symbols-8": [
+    "O.plain",
+    ".notdef"
+  ]
+}

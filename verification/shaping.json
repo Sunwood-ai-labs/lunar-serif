@@ -28,7 +28,7 @@
   "vertical_bounds_pass": true,
   "repeat_build_identical": true,
   "sha256": {
-    "LUNARSERIF-Regular.ttf": "36a30fdd2fdf747faa7908826e29a25ff1fb1ab0e8cde53071038bead79c89ac",
-    "LUNARSERIF-Regular.woff2": "940401d7f29825dabd67b223418df56622604b184c213dc1bb92037d934bebd6"
+    "LUNARSERIF-Regular.ttf": "b6ebd394e3f72ef24fc43713914fd35d8e12949c719e23afe66d0054db9f86d3",
+    "LUNARSERIF-Regular.woff2": "a10203ab932a1ae5b76f4e075f906b920d1e874592fa325c13bcf703f951550f"
   }
 }

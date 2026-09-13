@@ -1,0 +1,1682 @@
+{
+  "uni0041": {
+    "char": "A",
+    "advance": 576,
+    "bounds": [
+      5,
+      0,
+      568,
+      709
+    ],
+    "reference_roi": [
+      895,
+      387,
+      929,
+      428
+    ],
+    "review": "pending"
+  },
+  "uni0042": {
+    "char": "B",
+    "advance": 501,
+    "bounds": [
+      37,
+      0,
+      475,
+      707
+    ],
+    "reference_roi": [
+      949,
+      387,
+      974,
+      427
+    ],
+    "review": "pending"
+  },
+  "uni0043": {
+    "char": "C",
+    "advance": 633,
+    "bounds": [
+      24,
+      -10,
+      595,
+      710
+    ],
+    "reference_roi": [
+      992,
+      387,
+      1024,
+      428
+    ],
+    "review": "pending"
+  },
+  "uni0044": {
+    "char": "D",
+    "advance": 597,
+    "bounds": [
+      40,
+      -6,
+      556,
+      706
+    ],
+    "reference_roi": [
+      1042,
+      387,
+      1073,
+      428
+    ],
+    "review": "pending"
+  },
+  "uni0045": {
+    "char": "E",
+    "advance": 526,
+    "bounds": [
+      40,
+      0,
+      498,
+      700
+    ],
+    "reference_roi": [
+      1092,
+      387,
+      1118,
+      427
+    ],
+    "review": "pending"
+  },
+  "uni0046": {
+    "char": "F",
+    "advance": 539,
+    "bounds": [
+      43,
+      0,
+      512,
+      700
+    ],
+    "reference_roi": [
+      1136,
+      387,
+      1160,
+      428
+    ],
+    "review": "pending"
+  },
+  "uni0047": {
+    "char": "G",
+    "advance": 646,
+    "bounds": [
+      23,
+      -10,
+      608,
+      710
+    ],
+    "reference_roi": [
+      1178,
+      387,
+      1214,
+      428
+    ],
+    "review": "pending"
+  },
+  "uni0048": {
+    "char": "H",
+    "advance": 668,
+    "bounds": [
+      43,
+      0,
+      613,
+      700
+    ],
+    "reference_roi": [
+      1233,
+      387,
+      1263,
+      428
+    ],
+    "review": "pending"
+  },
+  "uni0049": {
+    "char": "I",
+    "advance": 314,
+    "bounds": [
+      66,
+      0,
+      247,
+      700
+    ],
+    "reference_roi": [
+      1283,
+      387,
+      1293,
+      428
+    ],
+    "review": "pending"
+  },
+  "uni004A": {
+    "char": "J",
+    "advance": 304,
+    "bounds": [
+      16,
+      -10,
+      273,
+      700
+    ],
+    "reference_roi": [
+      1310,
+      387,
+      1324,
+      435
+    ],
+    "review": "pending"
+  },
+  "uni004B": {
+    "char": "K",
+    "advance": 619,
+    "bounds": [
+      43,
+      0,
+      609,
+      703
+    ],
+    "reference_roi": [
+      1344,
+      387,
+      1375,
+      428
+    ],
+    "review": "pending"
+  },
+  "uni004C": {
+    "char": "L",
+    "advance": 532,
+    "bounds": [
+      43,
+      0,
+      499,
+      700
+    ],
+    "reference_roi": [
+      1393,
+      387,
+      1419,
+      428
+    ],
+    "review": "pending"
+  },
+  "uni004D": {
+    "char": "M",
+    "advance": 834,
+    "bounds": [
+      42,
+      -3,
+      773,
+      700
+    ],
+    "reference_roi": [
+      1436,
+      387,
+      1479,
+      428
+    ],
+    "review": "pending"
+  },
+  "uni004E": {
+    "char": "N",
+    "advance": 720,
+    "bounds": [
+      35,
+      -6,
+      677,
+      700
+    ],
+    "reference_roi": [
+      894,
+      457,
+      927,
+      498
+    ],
+    "review": "pending"
+  },
+  "uni004F": {
+    "char": "O",
+    "advance": 737,
+    "bounds": [
+      31,
+      -10,
+      706,
+      710
+    ],
+    "reference_roi": [
+      939,
+      457,
+      976,
+      498
+    ],
+    "review": "pending"
+  },
+  "O.plain": {
+    "char": null,
+    "advance": 737,
+    "bounds": [
+      31,
+      -10,
+      706,
+      710
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0050": {
+    "char": "P",
+    "advance": 480,
+    "bounds": [
+      36,
+      0,
+      450,
+      705
+    ],
+    "reference_roi": [
+      990,
+      457,
+      1014,
+      498
+    ],
+    "review": "pending"
+  },
+  "uni0051": {
+    "char": "Q",
+    "advance": 687,
+    "bounds": [
+      28,
+      -94,
+      652,
+      710
+    ],
+    "reference_roi": [
+      1028,
+      457,
+      1067,
+      504
+    ],
+    "review": "pending"
+  },
+  "uni0052": {
+    "char": "R",
+    "advance": 595,
+    "bounds": [
+      41,
+      -11,
+      577,
+      705
+    ],
+    "reference_roi": [
+      1079,
+      457,
+      1111,
+      498
+    ],
+    "review": "pending"
+  },
+  "uni0053": {
+    "char": "S",
+    "advance": 460,
+    "bounds": [
+      35,
+      -10,
+      420,
+      710
+    ],
+    "reference_roi": [
+      1126,
+      457,
+      1149,
+      498
+    ],
+    "review": "pending"
+  },
+  "uni0054": {
+    "char": "T",
+    "advance": 552,
+    "bounds": [
+      13,
+      0,
+      538,
+      700
+    ],
+    "reference_roi": [
+      1163,
+      457,
+      1195,
+      498
+    ],
+    "review": "pending"
+  },
+  "uni0055": {
+    "char": "U",
+    "advance": 657,
+    "bounds": [
+      37,
+      -10,
+      583,
+      700
+    ],
+    "reference_roi": [
+      1210,
+      457,
+      1241,
+      498
+    ],
+    "review": "pending"
+  },
+  "uni0056": {
+    "char": "V",
+    "advance": 605,
+    "bounds": [
+      4,
+      -10,
+      599,
+      700
+    ],
+    "reference_roi": [
+      1256,
+      457,
+      1290,
+      498
+    ],
+    "review": "pending"
+  },
+  "uni0057": {
+    "char": "W",
+    "advance": 861,
+    "bounds": [
+      3,
+      -10,
+      852,
+      700
+    ],
+    "reference_roi": [
+      1303,
+      457,
+      1354,
+      497
+    ],
+    "review": "pending"
+  },
+  "uni0058": {
+    "char": "X",
+    "advance": 602,
+    "bounds": [
+      7,
+      -3,
+      592,
+      703
+    ],
+    "reference_roi": [
+      1368,
+      457,
+      1399,
+      498
+    ],
+    "review": "pending"
+  },
+  "uni0059": {
+    "char": "Y",
+    "advance": 584,
+    "bounds": [
+      3,
+      0,
+      581,
+      703
+    ],
+    "reference_roi": [
+      1412,
+      457,
+      1443,
+      498
+    ],
+    "review": "pending"
+  },
+  "uni005A": {
+    "char": "Z",
+    "advance": 575,
+    "bounds": [
+      40,
+      0,
+      539,
+      700
+    ],
+    "reference_roi": [
+      1456,
+      457,
+      1484,
+      498
+    ],
+    "review": "pending"
+  },
+  "uni0061": {
+    "char": "a",
+    "advance": 492,
+    "bounds": [
+      52,
+      -10,
+      463,
+      470
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0062": {
+    "char": "b",
+    "advance": 515,
+    "bounds": [
+      34,
+      -10,
+      460,
+      700
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0063": {
+    "char": "c",
+    "advance": 463,
+    "bounds": [
+      44,
+      -10,
+      427,
+      470
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0064": {
+    "char": "d",
+    "advance": 526,
+    "bounds": [
+      56,
+      -10,
+      491,
+      700
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0065": {
+    "char": "e",
+    "advance": 464,
+    "bounds": [
+      44,
+      -10,
+      427,
+      470
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0066": {
+    "char": "f",
+    "advance": 318,
+    "bounds": [
+      32,
+      0,
+      330,
+      710
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0067": {
+    "char": "g",
+    "advance": 499,
+    "bounds": [
+      45,
+      -210,
+      474,
+      491
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0068": {
+    "char": "h",
+    "advance": 500,
+    "bounds": [
+      40,
+      0,
+      458,
+      700
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0069": {
+    "char": "i",
+    "advance": 240,
+    "bounds": [
+      50,
+      0,
+      190,
+      641
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni006A": {
+    "char": "j",
+    "advance": 243,
+    "bounds": [
+      -11,
+      -210,
+      196,
+      641
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni006B": {
+    "char": "k",
+    "advance": 478,
+    "bounds": [
+      34,
+      0,
+      467,
+      700
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni006C": {
+    "char": "l",
+    "advance": 246,
+    "bounds": [
+      50,
+      0,
+      190,
+      700
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni006D": {
+    "char": "m",
+    "advance": 774,
+    "bounds": [
+      36,
+      0,
+      743,
+      470
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni006E": {
+    "char": "n",
+    "advance": 500,
+    "bounds": [
+      36,
+      0,
+      458,
+      470
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni006F": {
+    "char": "o",
+    "advance": 511,
+    "bounds": [
+      50,
+      -10,
+      462,
+      470
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0070": {
+    "char": "p",
+    "advance": 521,
+    "bounds": [
+      34,
+      -210,
+      460,
+      470
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0071": {
+    "char": "q",
+    "advance": 526,
+    "bounds": [
+      56,
+      -210,
+      491,
+      470
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0072": {
+    "char": "r",
+    "advance": 365,
+    "bounds": [
+      36,
+      0,
+      336,
+      470
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0073": {
+    "char": "s",
+    "advance": 414,
+    "bounds": [
+      39,
+      -10,
+      376,
+      470
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0074": {
+    "char": "t",
+    "advance": 330,
+    "bounds": [
+      34,
+      -10,
+      306,
+      606
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0075": {
+    "char": "u",
+    "advance": 507,
+    "bounds": [
+      32,
+      -10,
+      471,
+      460
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0076": {
+    "char": "v",
+    "advance": 459,
+    "bounds": [
+      2,
+      -10,
+      448,
+      460
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0077": {
+    "char": "w",
+    "advance": 681,
+    "bounds": [
+      2,
+      -10,
+      661,
+      460
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0078": {
+    "char": "x",
+    "advance": 457,
+    "bounds": [
+      3,
+      -3,
+      451,
+      463
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0079": {
+    "char": "y",
+    "advance": 459,
+    "bounds": [
+      2,
+      -210,
+      448,
+      460
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni007A": {
+    "char": "z",
+    "advance": 434,
+    "bounds": [
+      38,
+      0,
+      397,
+      460
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0030": {
+    "char": "0",
+    "advance": 555,
+    "bounds": [
+      49,
+      -10,
+      505,
+      710
+    ],
+    "reference_roi": [
+      897,
+      541,
+      928,
+      584
+    ],
+    "review": "pending"
+  },
+  "uni0031": {
+    "char": "1",
+    "advance": 555,
+    "bounds": [
+      190,
+      0,
+      374,
+      705
+    ],
+    "reference_roi": [
+      966,
+      541,
+      976,
+      584
+    ],
+    "review": "pending"
+  },
+  "uni0032": {
+    "char": "2",
+    "advance": 555,
+    "bounds": [
+      51,
+      0,
+      497,
+      710
+    ],
+    "reference_roi": [
+      1015,
+      540,
+      1041,
+      584
+    ],
+    "review": "pending"
+  },
+  "uni0033": {
+    "char": "3",
+    "advance": 555,
+    "bounds": [
+      61,
+      -10,
+      492,
+      710
+    ],
+    "reference_roi": [
+      1077,
+      541,
+      1102,
+      584
+    ],
+    "review": "pending"
+  },
+  "uni0034": {
+    "char": "4",
+    "advance": 555,
+    "bounds": [
+      64,
+      0,
+      523,
+      706
+    ],
+    "reference_roi": [
+      1136,
+      541,
+      1164,
+      584
+    ],
+    "review": "pending"
+  },
+  "uni0035": {
+    "char": "5",
+    "advance": 555,
+    "bounds": [
+      66,
+      -10,
+      487,
+      700
+    ],
+    "reference_roi": [
+      1200,
+      541,
+      1224,
+      584
+    ],
+    "review": "pending"
+  },
+  "uni0036": {
+    "char": "6",
+    "advance": 555,
+    "bounds": [
+      68,
+      -10,
+      488,
+      715
+    ],
+    "reference_roi": [
+      1261,
+      541,
+      1287,
+      584
+    ],
+    "review": "pending"
+  },
+  "uni0037": {
+    "char": "7",
+    "advance": 555,
+    "bounds": [
+      51,
+      0,
+      498,
+      700
+    ],
+    "reference_roi": [
+      1323,
+      541,
+      1350,
+      584
+    ],
+    "review": "pending"
+  },
+  "uni0038": {
+    "char": "8",
+    "advance": 555,
+    "bounds": [
+      61,
+      -10,
+      493,
+      710
+    ],
+    "reference_roi": [
+      1386,
+      541,
+      1410,
+      584
+    ],
+    "review": "pending"
+  },
+  "uni0039": {
+    "char": "9",
+    "advance": 555,
+    "bounds": [
+      67,
+      -15,
+      487,
+      710
+    ],
+    "reference_roi": [
+      1447,
+      541,
+      1473,
+      585
+    ],
+    "review": "pending"
+  },
+  "uni0020": {
+    "char": " ",
+    "advance": 250,
+    "bounds": null,
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni00A0": {
+    "char": " ",
+    "advance": 250,
+    "bounds": null,
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni002E": {
+    "char": ".",
+    "advance": 208,
+    "bounds": [
+      74,
+      -1,
+      134,
+      59
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni002C": {
+    "char": ",",
+    "advance": 218,
+    "bounds": [
+      74,
+      -83,
+      146,
+      60
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni003A": {
+    "char": ":",
+    "advance": 208,
+    "bounds": [
+      77,
+      0,
+      131,
+      399
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni003B": {
+    "char": ";",
+    "advance": 218,
+    "bounds": [
+      74,
+      -83,
+      146,
+      399
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0021": {
+    "char": "!",
+    "advance": 231,
+    "bounds": [
+      88,
+      -1,
+      144,
+      700
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni003F": {
+    "char": "?",
+    "advance": 443,
+    "bounds": [
+      54,
+      -1,
+      398,
+      710
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni002D": {
+    "char": "-",
+    "advance": 335,
+    "bounds": [
+      53,
+      268,
+      282,
+      283
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni2013": {
+    "char": "–",
+    "advance": 550,
+    "bounds": [
+      30,
+      268,
+      520,
+      283
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni2014": {
+    "char": "—",
+    "advance": 950,
+    "bounds": [
+      30,
+      268,
+      920,
+      283
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni005F": {
+    "char": "_",
+    "advance": 540,
+    "bounds": [
+      10,
+      -103,
+      530,
+      -90
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni002F": {
+    "char": "/",
+    "advance": 376,
+    "bounds": [
+      21,
+      -82,
+      355,
+      762
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni005C": {
+    "char": "\\",
+    "advance": 376,
+    "bounds": [
+      21,
+      -82,
+      355,
+      762
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni007C": {
+    "char": "|",
+    "advance": 214,
+    "bounds": [
+      100,
+      -140,
+      114,
+      760
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0028": {
+    "char": "(",
+    "advance": 324,
+    "bounds": [
+      96,
+      -146,
+      283,
+      790
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0029": {
+    "char": ")",
+    "advance": 324,
+    "bounds": [
+      41,
+      -146,
+      228,
+      790
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni005B": {
+    "char": "[",
+    "advance": 317,
+    "bounds": [
+      100,
+      -130,
+      270,
+      770
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni005D": {
+    "char": "]",
+    "advance": 317,
+    "bounds": [
+      47,
+      -130,
+      217,
+      770
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni007B": {
+    "char": "{",
+    "advance": 353,
+    "bounds": [
+      37,
+      -150,
+      299,
+      799
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni007D": {
+    "char": "}",
+    "advance": 353,
+    "bounds": [
+      54,
+      -150,
+      316,
+      799
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0027": {
+    "char": "'",
+    "advance": 184,
+    "bounds": [
+      74,
+      520,
+      113,
+      700
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0022": {
+    "char": "\"",
+    "advance": 318,
+    "bounds": [
+      74,
+      520,
+      247,
+      700
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0060": {
+    "char": "`",
+    "advance": 249,
+    "bounds": [
+      54,
+      570,
+      192,
+      707
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni005E": {
+    "char": "^",
+    "advance": 470,
+    "bounds": [
+      54,
+      438,
+      416,
+      704
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni007E": {
+    "char": "~",
+    "advance": 590,
+    "bounds": [
+      43,
+      222,
+      547,
+      319
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni002B": {
+    "char": "+",
+    "advance": 554,
+    "bounds": [
+      53,
+      80,
+      501,
+      530
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni003D": {
+    "char": "=",
+    "advance": 554,
+    "bounds": [
+      53,
+      218,
+      501,
+      388
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni003C": {
+    "char": "<",
+    "advance": 554,
+    "bounds": [
+      64,
+      79,
+      487,
+      529
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni003E": {
+    "char": ">",
+    "advance": 554,
+    "bounds": [
+      64,
+      79,
+      487,
+      529
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni002A": {
+    "char": "*",
+    "advance": 414,
+    "bounds": [
+      74,
+      411,
+      340,
+      663
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0023": {
+    "char": "#",
+    "advance": 580,
+    "bounds": [
+      62,
+      -1,
+      538,
+      701
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0024": {
+    "char": "$",
+    "advance": 575,
+    "bounds": [
+      44,
+      -90,
+      525,
+      785
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0025": {
+    "char": "%",
+    "advance": 732,
+    "bounds": [
+      46,
+      -11,
+      686,
+      710
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0026": {
+    "char": "&",
+    "advance": 672,
+    "bounds": [
+      39,
+      -10,
+      651,
+      710
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni0040": {
+    "char": "@",
+    "advance": 860,
+    "bounds": [
+      51,
+      -84,
+      803,
+      710
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni2018": {
+    "char": "‘",
+    "advance": 218,
+    "bounds": [
+      72,
+      577,
+      144,
+      720
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni2019": {
+    "char": "’",
+    "advance": 218,
+    "bounds": [
+      74,
+      567,
+      146,
+      710
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni201C": {
+    "char": "“",
+    "advance": 362,
+    "bounds": [
+      72,
+      577,
+      288,
+      720
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni201D": {
+    "char": "”",
+    "advance": 362,
+    "bounds": [
+      74,
+      567,
+      290,
+      710
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni2026": {
+    "char": "…",
+    "advance": 624,
+    "bounds": [
+      74,
+      -1,
+      550,
+      59
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni00D7": {
+    "char": "×",
+    "advance": 554,
+    "bounds": [
+      85,
+      111,
+      469,
+      495
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  },
+  "uni30CE": {
+    "char": "ノ",
+    "advance": 850,
+    "bounds": [
+      187,
+      67,
+      672,
+      735
+    ],
+    "reference_roi": [
+      993,
+      651,
+      1025,
+      692
+    ],
+    "review": "pending"
+  },
+  "uni30AF": {
+    "char": "ク",
+    "advance": 850,
+    "bounds": [
+      142,
+      51,
+      710,
+      737
+    ],
+    "reference_roi": [
+      1054,
+      648,
+      1089,
+      693
+    ],
+    "review": "pending"
+  },
+  "uni30C6": {
+    "char": "テ",
+    "advance": 850,
+    "bounds": [
+      139,
+      49,
+      778,
+      697
+    ],
+    "reference_roi": [
+      1114,
+      649,
+      1156,
+      695
+    ],
+    "review": "pending"
+  },
+  "uni30A3": {
+    "char": "ィ",
+    "advance": 850,
+    "bounds": [
+      318,
+      54,
+      691,
+      556
+    ],
+    "reference_roi": [
+      1172,
+      658,
+      1196,
+      695
+    ],
+    "review": "pending"
+  },
+  "uni30BB": {
+    "char": "セ",
+    "advance": 850,
+    "bounds": [
+      128,
+      131,
+      793,
+      730
+    ],
+    "reference_roi": [
+      1219,
+      650,
+      1262,
+      690
+    ],
+    "review": "pending"
+  },
+  "uni30FC": {
+    "char": "ー",
+    "advance": 850,
+    "bounds": [
+      146,
+      364,
+      810,
+      423
+    ],
+    "reference_roi": [
+      1285,
+      668,
+      1326,
+      674
+    ],
+    "review": "pending"
+  },
+  "uni30CC": {
+    "char": "ヌ",
+    "advance": 850,
+    "bounds": [
+      175,
+      79,
+      763,
+      690
+    ],
+    "reference_roi": [
+      1342,
+      653,
+      1379,
+      693
+    ],
+    "review": "pending"
+  },
+  "uni306B": {
+    "char": "に",
+    "advance": 850,
+    "bounds": [
+      181,
+      62,
+      790,
+      708
+    ],
+    "reference_roi": [
+      1055,
+      737,
+      1104,
+      792
+    ],
+    "review": "pending"
+  },
+  "uni3092": {
+    "char": "を",
+    "advance": 850,
+    "bounds": [
+      213,
+      57,
+      801,
+      742
+    ],
+    "reference_roi": [
+      1350,
+      731,
+      1398,
+      794
+    ],
+    "review": "pending"
+  },
+  "uni3001": {
+    "char": "、",
+    "advance": 450,
+    "bounds": [
+      239,
+      36,
+      378,
+      164
+    ],
+    "reference_roi": [
+      1126,
+      782,
+      1142,
+      797
+    ],
+    "review": "pending"
+  },
+  "uni3002": {
+    "char": "。",
+    "advance": 450,
+    "bounds": [
+      210,
+      31,
+      344,
+      167
+    ],
+    "reference_roi": [
+      1411,
+      777,
+      1430,
+      796
+    ],
+    "review": "pending"
+  },
+  "uni4F59": {
+    "char": "余",
+    "advance": 950,
+    "bounds": [
+      135,
+      12,
+      864,
+      785
+    ],
+    "reference_roi": [
+      1177,
+      726,
+      1246,
+      798
+    ],
+    "review": "pending"
+  },
+  "uni591C": {
+    "char": "夜",
+    "advance": 950,
+    "bounds": [
+      126,
+      42,
+      862,
+      796
+    ],
+    "reference_roi": [
+      962,
+      727,
+      1032,
+      798
+    ],
+    "review": "pending"
+  },
+  "uni97FB": {
+    "char": "韻",
+    "advance": 950,
+    "bounds": [
+      74,
+      27,
+      902,
+      797
+    ],
+    "reference_roi": [
+      1263,
+      727,
+      1328,
+      797
+    ],
+    "review": "pending"
+  },
+  ".notdef": {
+    "char": null,
+    "advance": 600,
+    "bounds": [
+      60,
+      0,
+      540,
+      700
+    ],
+    "reference_roi": null,
+    "review": "pending"
+  }
+}

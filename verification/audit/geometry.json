@@ -1,0 +1,13 @@
+{
+  "glyphs_covered": 120,
+  "duplicate_audit_entries": 0,
+  "all_vertical_bounds": true,
+  "regression_contours": {
+    "uni0038": 3,
+    "uni0067": 3,
+    "uni006A": 2,
+    "uni201C": 2,
+    "uni201D": 2
+  },
+  "double_quote_translation_exact": true
+}

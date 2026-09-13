@@ -1,11 +1,11 @@
 {
   "uni0041": {
     "char": "A",
-    "advance": 600
+    "advance": 576
   },
   "uni0042": {
     "char": "B",
-    "advance": 583
+    "advance": 501
   },
   "uni0043": {
     "char": "C",
@@ -13,7 +13,7 @@
   },
   "uni0044": {
     "char": "D",
-    "advance": 635
+    "advance": 597
   },
   "uni0045": {
     "char": "E",
@@ -37,7 +37,7 @@
   },
   "uni004A": {
     "char": "J",
-    "advance": 385
+    "advance": 304
   },
   "uni004B": {
     "char": "K",
@@ -49,7 +49,7 @@
   },
   "uni004D": {
     "char": "M",
-    "advance": 787
+    "advance": 834
   },
   "uni004E": {
     "char": "N",
@@ -65,7 +65,7 @@
   },
   "uni0050": {
     "char": "P",
-    "advance": 571
+    "advance": 480
   },
   "uni0051": {
     "char": "Q",
@@ -73,7 +73,7 @@
   },
   "uni0052": {
     "char": "R",
-    "advance": 620
+    "advance": 595
   },
   "uni0053": {
     "char": "S",
