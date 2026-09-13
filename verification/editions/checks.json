@@ -1,0 +1,28 @@
+{
+  "Text": {
+    "characters": 118,
+    "glyphs": 120,
+    "pairs_checked": 13456,
+    "collisions": [],
+    "ttf_woff2_equal": true,
+    "plain_o_substitution": true,
+    "sha256": {
+      "ttf": "73db906370c4405c27930c99705b8fea28ba4bea7bf1a66e1e0d88ace858d0f2",
+      "woff2": "2d6c9fa2dcf42a338ca6b7396d8e5feca2b5e2128356a2906b972c692ce34307"
+    },
+    "plain_o_collisions": []
+  },
+  "Title": {
+    "characters": 118,
+    "glyphs": 120,
+    "pairs_checked": 13456,
+    "collisions": [],
+    "ttf_woff2_equal": true,
+    "plain_o_substitution": true,
+    "sha256": {
+      "ttf": "4e45a1ff87f83660cd017d431fd1a4a89e79f960326ecdb7b8e776450ecb9b15",
+      "woff2": "a936e44d0bcab81eb20c5490e595bc0ae0e8a5e1da99d63ae3022d25b4347c92"
+    },
+    "plain_o_collisions": []
+  }
+}

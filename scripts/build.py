@@ -13,12 +13,13 @@ KERN={('N','O'):-24,('O','C'):-18,('C','T'):-16,('T','I'):-19,('I','S'):-10,('S'
       ('A','V'):-62,('A','W'):-43,('A','Y'):-61,('T','A'):-52,('T','o'):-57,('T','a'):-49,('T','e'):-50,
       ('V','A'):-62,('V','o'):-42,('W','A'):-43,('Y','A'):-61,('Y','o'):-58,('L','T'):-29,('L','Y'):-40,
       ('F','o'):-30,('P','a'):-24,('r','.'):-23,('v','a'):-14,('w','a'):-12}
-def main():
-    meta=json.loads((ROOT/'sources/metrics.json').read_text(encoding='utf-8'))
+def main(source=None, basename='LUNARSERIF-Regular', family='LUNAR SERIF', version='1.002'):
+    source=Path(source) if source else ROOT/'sources'
+    meta=json.loads((source/'metrics.json').read_text(encoding='utf-8'))
     order=['.notdef']+[n for n in meta if n!='.notdef']
     glyphs={}; metrics={}; cmap={}; stats={}
     for name in order:
-        svg=ET.parse(ROOT/'sources/glyphs'/f'{name}.svg')
+        svg=ET.parse(source/'glyphs'/f'{name}.svg')
         path=pathops.Path()
         for el in svg.iter('{http://www.w3.org/2000/svg}path'):
             parse_path(el.attrib['d'],path.getPen())
@@ -35,10 +36,11 @@ def main():
     fb=FontBuilder(1000,isTTF=True)
     fb.setupGlyphOrder(order); fb.setupCharacterMap(cmap); fb.setupGlyf(glyphs)
     fb.setupHorizontalMetrics(metrics); fb.setupHorizontalHeader(ascent=850,descent=-250,lineGap=80)
-    fb.setupNameTable({'familyName':'LUNAR SERIF','styleName':'Regular','uniqueFontIdentifier':'NOCTISENE:LUNARSERIF:1.002',
-        'fullName':'LUNAR SERIF Regular','psName':'LUNARSERIF-Regular','version':'Version 1.002',
+    identifier=f'NOCTISENE:LUNARSERIF:{version}' if basename=='LUNARSERIF-Regular' else f'NOCTISENE:{basename}:{version}'
+    fb.setupNameTable({'familyName':family,'styleName':'Regular','uniqueFontIdentifier':identifier,
+        'fullName':family+' Regular','psName':basename,'version':'Version '+version,
         'copyright':'Original outlines created for NOCTISENE, 2026. See LICENSE.txt.',
-        'description':'Original high-contrast display serif with a crescent and star O. ss01 selects plain O.',
+        'description':('Original high-contrast serif with a plain O.' if family.endswith(' Text') else 'Original high-contrast display serif with a crescent and star O. ss01 selects plain O.'),
         'licenseDescription':'See accompanying LICENSE.txt for the font and source usage grant.'})
     fb.setupOS2(version=4,sTypoAscender=850,sTypoDescender=-250,sTypoLineGap=80,usWinAscent=850,usWinDescent=250,
         sxHeight=460,sCapHeight=700,usWeightClass=400,usWidthClass=5,fsSelection=0xC0,fsType=0)
@@ -49,7 +51,7 @@ def main():
         if a=='O': features+=f'pos O.plain uni{ord(b):04X} {v};\n'
         if b=='O': features+=f'pos uni{ord(a):04X} O.plain {v};\n'
     features+='} kern;\n'
-    (ROOT/'sources/features.fea').write_text(features,encoding='utf-8')
+    (source/'features.fea').write_text(features,encoding='utf-8')
     addOpenTypeFeaturesFromString(fb.font,features)
     # Legacy kern supports simple rasterizers; modern shapers use GPOS.
     from fontTools.ttLib import newTable
@@ -60,10 +62,11 @@ def main():
     kern.kernTables=[sub]; fb.font['kern']=kern
     fb.font['head'].created=3872102400; fb.font['head'].modified=3872102400
     fb.font.recalcTimestamp=False
-    out=ROOT/'outputs/LUNARSERIF-Regular.ttf'; fb.save(out)
-    fb.font.flavor='woff2'; fb.font.save(ROOT/'outputs/LUNARSERIF-Regular.woff2')
+    out=ROOT/'outputs'/f'{basename}.ttf'; fb.save(out)
+    fb.font.flavor='woff2'; fb.font.save(ROOT/'outputs'/f'{basename}.woff2')
     report={'glyphs':len(order),'encoded_characters':len(cmap),'characters':''.join(chr(c) for c in sorted(cmap)),
-            'bounds':stats,'kerning_pairs':len(KERN),'files':{p.name:hashlib.sha256(p.read_bytes()).hexdigest() for p in (ROOT/'outputs').glob('*') if p.suffix in ('.ttf','.woff2')}}
-    (ROOT/'verification/build.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
+            'bounds':stats,'kerning_pairs':len(KERN),'files':{p.name:hashlib.sha256(p.read_bytes()).hexdigest() for p in (ROOT/'outputs').glob('*') if p.suffix in ('.ttf','.woff2') and (basename=='LUNARSERIF-Regular' or p.stem==basename)}}
+    report_path=ROOT/'verification'/('build.json' if basename=='LUNARSERIF-Regular' else basename+'-build.json')
+    report_path.write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
     print(f'Built {len(order)} glyphs / {len(cmap)} encoded characters. TTF + WOFF2.')
 if __name__=='__main__': main()

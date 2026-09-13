@@ -1,0 +1,482 @@
+{
+  "uni0041": {
+    "char": "A",
+    "advance": 1021
+  },
+  "uni0042": {
+    "char": "B",
+    "advance": 616
+  },
+  "uni0043": {
+    "char": "C",
+    "advance": 833
+  },
+  "uni0044": {
+    "char": "D",
+    "advance": 768
+  },
+  "uni0045": {
+    "char": "E",
+    "advance": 739
+  },
+  "uni0046": {
+    "char": "F",
+    "advance": 681
+  },
+  "uni0047": {
+    "char": "G",
+    "advance": 782
+  },
+  "uni0048": {
+    "char": "H",
+    "advance": 819
+  },
+  "uni0049": {
+    "char": "I",
+    "advance": 364
+  },
+  "uni004A": {
+    "char": "J",
+    "advance": 549
+  },
+  "uni004B": {
+    "char": "K",
+    "advance": 1086
+  },
+  "uni004C": {
+    "char": "L",
+    "advance": 754
+  },
+  "uni004D": {
+    "char": "M",
+    "advance": 1015
+  },
+  "uni004E": {
+    "char": "N",
+    "advance": 959
+  },
+  "uni004F": {
+    "char": "O",
+    "advance": 789
+  },
+  "O.plain": {
+    "char": null,
+    "advance": 789
+  },
+  "uni0050": {
+    "char": "P",
+    "advance": 591
+  },
+  "uni0051": {
+    "char": "Q",
+    "advance": 1065
+  },
+  "uni0052": {
+    "char": "R",
+    "advance": 938
+  },
+  "uni0053": {
+    "char": "S",
+    "advance": 549
+  },
+  "uni0054": {
+    "char": "T",
+    "advance": 782
+  },
+  "uni0055": {
+    "char": "U",
+    "advance": 839
+  },
+  "uni0056": {
+    "char": "V",
+    "advance": 888
+  },
+  "uni0057": {
+    "char": "W",
+    "advance": 1178
+  },
+  "uni0058": {
+    "char": "X",
+    "advance": 832
+  },
+  "uni0059": {
+    "char": "Y",
+    "advance": 803
+  },
+  "uni005A": {
+    "char": "Z",
+    "advance": 782
+  },
+  "uni0061": {
+    "char": "a",
+    "advance": 492
+  },
+  "uni0062": {
+    "char": "b",
+    "advance": 515
+  },
+  "uni0063": {
+    "char": "c",
+    "advance": 463
+  },
+  "uni0064": {
+    "char": "d",
+    "advance": 526
+  },
+  "uni0065": {
+    "char": "e",
+    "advance": 464
+  },
+  "uni0066": {
+    "char": "f",
+    "advance": 318
+  },
+  "uni0067": {
+    "char": "g",
+    "advance": 499
+  },
+  "uni0068": {
+    "char": "h",
+    "advance": 500
+  },
+  "uni0069": {
+    "char": "i",
+    "advance": 240
+  },
+  "uni006A": {
+    "char": "j",
+    "advance": 243
+  },
+  "uni006B": {
+    "char": "k",
+    "advance": 478
+  },
+  "uni006C": {
+    "char": "l",
+    "advance": 246
+  },
+  "uni006D": {
+    "char": "m",
+    "advance": 774
+  },
+  "uni006E": {
+    "char": "n",
+    "advance": 500
+  },
+  "uni006F": {
+    "char": "o",
+    "advance": 511
+  },
+  "uni0070": {
+    "char": "p",
+    "advance": 521
+  },
+  "uni0071": {
+    "char": "q",
+    "advance": 526
+  },
+  "uni0072": {
+    "char": "r",
+    "advance": 365
+  },
+  "uni0073": {
+    "char": "s",
+    "advance": 414
+  },
+  "uni0074": {
+    "char": "t",
+    "advance": 330
+  },
+  "uni0075": {
+    "char": "u",
+    "advance": 507
+  },
+  "uni0076": {
+    "char": "v",
+    "advance": 459
+  },
+  "uni0077": {
+    "char": "w",
+    "advance": 681
+  },
+  "uni0078": {
+    "char": "x",
+    "advance": 457
+  },
+  "uni0079": {
+    "char": "y",
+    "advance": 459
+  },
+  "uni007A": {
+    "char": "z",
+    "advance": 434
+  },
+  "uni0030": {
+    "char": "0",
+    "advance": 555
+  },
+  "uni0031": {
+    "char": "1",
+    "advance": 555
+  },
+  "uni0032": {
+    "char": "2",
+    "advance": 555
+  },
+  "uni0033": {
+    "char": "3",
+    "advance": 555
+  },
+  "uni0034": {
+    "char": "4",
+    "advance": 555
+  },
+  "uni0035": {
+    "char": "5",
+    "advance": 555
+  },
+  "uni0036": {
+    "char": "6",
+    "advance": 555
+  },
+  "uni0037": {
+    "char": "7",
+    "advance": 555
+  },
+  "uni0038": {
+    "char": "8",
+    "advance": 555
+  },
+  "uni0039": {
+    "char": "9",
+    "advance": 555
+  },
+  "uni0020": {
+    "char": " ",
+    "advance": 250
+  },
+  "uni00A0": {
+    "char": " ",
+    "advance": 250
+  },
+  "uni002E": {
+    "char": ".",
+    "advance": 208
+  },
+  "uni002C": {
+    "char": ",",
+    "advance": 218
+  },
+  "uni003A": {
+    "char": ":",
+    "advance": 208
+  },
+  "uni003B": {
+    "char": ";",
+    "advance": 218
+  },
+  "uni0021": {
+    "char": "!",
+    "advance": 231
+  },
+  "uni003F": {
+    "char": "?",
+    "advance": 443
+  },
+  "uni002D": {
+    "char": "-",
+    "advance": 335
+  },
+  "uni2013": {
+    "char": "–",
+    "advance": 550
+  },
+  "uni2014": {
+    "char": "—",
+    "advance": 950
+  },
+  "uni005F": {
+    "char": "_",
+    "advance": 540
+  },
+  "uni002F": {
+    "char": "/",
+    "advance": 376
+  },
+  "uni005C": {
+    "char": "\\",
+    "advance": 376
+  },
+  "uni007C": {
+    "char": "|",
+    "advance": 214
+  },
+  "uni0028": {
+    "char": "(",
+    "advance": 324
+  },
+  "uni0029": {
+    "char": ")",
+    "advance": 324
+  },
+  "uni005B": {
+    "char": "[",
+    "advance": 317
+  },
+  "uni005D": {
+    "char": "]",
+    "advance": 317
+  },
+  "uni007B": {
+    "char": "{",
+    "advance": 353
+  },
+  "uni007D": {
+    "char": "}",
+    "advance": 353
+  },
+  "uni0027": {
+    "char": "'",
+    "advance": 184
+  },
+  "uni0022": {
+    "char": "\"",
+    "advance": 318
+  },
+  "uni0060": {
+    "char": "`",
+    "advance": 249
+  },
+  "uni005E": {
+    "char": "^",
+    "advance": 470
+  },
+  "uni007E": {
+    "char": "~",
+    "advance": 590
+  },
+  "uni002B": {
+    "char": "+",
+    "advance": 554
+  },
+  "uni003D": {
+    "char": "=",
+    "advance": 554
+  },
+  "uni003C": {
+    "char": "<",
+    "advance": 554
+  },
+  "uni003E": {
+    "char": ">",
+    "advance": 554
+  },
+  "uni002A": {
+    "char": "*",
+    "advance": 414
+  },
+  "uni0023": {
+    "char": "#",
+    "advance": 580
+  },
+  "uni0024": {
+    "char": "$",
+    "advance": 575
+  },
+  "uni0025": {
+    "char": "%",
+    "advance": 732
+  },
+  "uni0026": {
+    "char": "&",
+    "advance": 672
+  },
+  "uni0040": {
+    "char": "@",
+    "advance": 860
+  },
+  "uni2018": {
+    "char": "‘",
+    "advance": 218
+  },
+  "uni2019": {
+    "char": "’",
+    "advance": 218
+  },
+  "uni201C": {
+    "char": "“",
+    "advance": 362
+  },
+  "uni201D": {
+    "char": "”",
+    "advance": 362
+  },
+  "uni2026": {
+    "char": "…",
+    "advance": 624
+  },
+  "uni00D7": {
+    "char": "×",
+    "advance": 554
+  },
+  "uni30CE": {
+    "char": "ノ",
+    "advance": 800
+  },
+  "uni30AF": {
+    "char": "ク",
+    "advance": 800
+  },
+  "uni30C6": {
+    "char": "テ",
+    "advance": 800
+  },
+  "uni30A3": {
+    "char": "ィ",
+    "advance": 800
+  },
+  "uni30BB": {
+    "char": "セ",
+    "advance": 800
+  },
+  "uni30FC": {
+    "char": "ー",
+    "advance": 800
+  },
+  "uni30CC": {
+    "char": "ヌ",
+    "advance": 800
+  },
+  "uni306B": {
+    "char": "に",
+    "advance": 850
+  },
+  "uni3092": {
+    "char": "を",
+    "advance": 850
+  },
+  "uni3001": {
+    "char": "、",
+    "advance": 350
+  },
+  "uni3002": {
+    "char": "。",
+    "advance": 350
+  },
+  "uni4F59": {
+    "char": "余",
+    "advance": 850
+  },
+  "uni591C": {
+    "char": "夜",
+    "advance": 850
+  },
+  "uni97FB": {
+    "char": "韻",
+    "advance": 850
+  },
+  ".notdef": {
+    "char": null,
+    "advance": 600
+  }
+}

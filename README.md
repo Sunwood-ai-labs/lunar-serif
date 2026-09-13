@@ -1,5 +1,15 @@
 # LUNAR SERIF
 
+## 採用デザインから仕上げた2種類
+
+**[通常版 / Text](outputs/LUNARSERIFText-Regular.ttf)** と **[タイトル版 / Title](outputs/LUNARSERIFTitle-Regular.ttf)** を追加しました。通常版は装飾なしO、タイトル版は三日月Cと三日月・星のOを持ちます。
+
+- **[2種類を切り替えて入力する](editions.html)** / [導入・編集・再ビルド](docs/editions.md)
+- [採用画像と全52字の比較](verification/editions/comparison.html)
+- [通常版 WOFF2](outputs/LUNARSERIFText-Regular.woff2) / [タイトル版 WOFF2](outputs/LUNARSERIFTitle-Regular.woff2)
+
+各118文字・120字形。大文字26字ずつを採用画像に合わせて再構成し、小文字・数字・記号・和文14文字は既存の独自字形を継承しています。以下の旧Display版とJP版も保持しています。
+
 NOCTISENEの、流れるN・三日月と四芒星のO・細長いSを持つフォントです。ロゴ用の **Display 1.002** と、広い日本語に対応する **JP 1.000** を収録しています。
 
 Display版は独自欧文と、生成見本から再構成した和文14文字。JP版は独自欧文104文字をそのまま保ち、和文をOFLの「しっぽり明朝」から統合した派生フォントです。不足していた記号・半角カナ260文字をNoto Serif JPで補い、記号≒を独自の幾何輪郭で追加しています。JP版の和文すべてを新規制作したものではありません。
