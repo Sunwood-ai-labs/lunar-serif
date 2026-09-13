@@ -1,0 +1,12 @@
+{
+  "required_missing": [],
+  "ttf_load": true,
+  "woff2_load": true,
+  "cmap_equal": true,
+  "render_engine": "Pillow / FreeType, BASIC layout with legacy kern",
+  "rendered_codepoints": 116,
+  "japanese_required": "ノクティセーヌ夜に、余韻を。",
+  "gpos": true,
+  "ss01": true,
+  "os_installation": false
+}

@@ -1,0 +1,10 @@
+LUNAR SERIF — generated original font and source files, 2026
+
+The font files, original glyph sources, build scripts, and generated specimens
+in this directory may be used, copied, modified, embedded, and redistributed,
+including for commercial designs. No attribution is required.
+These materials are provided as-is, without warranty.
+
+This notice does not grant rights in the NOCTISENE name or any trademark,
+and does not cover third-party Python packages or the reference images.
+Those dependencies and references retain their applicable terms.

@@ -1,0 +1,34 @@
+{
+  "engine": "HarfBuzz 12.3.2",
+  "logo_glyphs": [
+    "uni004E",
+    "uni004F",
+    "uni0043",
+    "uni0054",
+    "uni0049",
+    "uni0053",
+    "uni0045",
+    "uni004E",
+    "uni0045"
+  ],
+  "logo_advance_upm": 5073,
+  "unkerned_advance_upm": 5188,
+  "logo_bbox_gaps_upm": [
+    50,
+    37,
+    35,
+    61,
+    92,
+    70,
+    55,
+    73
+  ],
+  "ss01_plain_O": true,
+  "missing_required_glyphs": false,
+  "vertical_bounds_pass": true,
+  "repeat_build_identical": true,
+  "sha256": {
+    "LUNARSERIF-Regular.ttf": "36a30fdd2fdf747faa7908826e29a25ff1fb1ab0e8cde53071038bead79c89ac",
+    "LUNARSERIF-Regular.woff2": "940401d7f29825dabd67b223418df56622604b184c213dc1bb92037d934bebd6"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "method": "Reference threshold <100 on manually selected hero ROIs; TTF outline bounding boxes. Ratios measure proportion only, not outline identity. N ROI excludes neighbouring O.",
+  "reference_sha256": "773c071e3dee53732fff33b1c8b4f48f57a70ca387a72ddd39ed1493131d6aa9",
+  "glyphs": [
+    {
+      "char": "N",
+      "reference_roi_xyxy": [
+        56,
+        119,
+        244,
+        332
+      ],
+      "reference_ink_width_height_ratio": 0.9077669902912622,
+      "before_ratio": 0.8626062322946175,
+      "before_relative_ratio_error_percent": 4.974928421020753,
+      "current_ratio": 0.9093484419263456,
+      "current_relative_ratio_error_percent": 0.17421338867762426
+    },
+    {
+      "char": "O",
+      "reference_roi_xyxy": [
+        247,
+        118,
+        447,
+        333
+      ],
+      "reference_ink_width_height_ratio": 0.9342723004694836,
+      "before_ratio": 0.8361111111111111,
+      "before_relative_ratio_error_percent": 10.50670016750419,
+      "current_ratio": 0.9375,
+      "current_relative_ratio_error_percent": 0.34547738693466723
+    },
+    {
+      "char": "S",
+      "reference_roi_xyxy": [
+        883,
+        118,
+        1000,
+        333
+      ],
+      "reference_ink_width_height_ratio": 0.5424528301886793,
+      "before_ratio": 0.6680555555555555,
+      "before_relative_ratio_error_percent": 23.15458937198065,
+      "current_ratio": 0.5347222222222222,
+      "current_relative_ratio_error_percent": 1.4251207729468751
+    }
+  ]
+}
