@@ -1,0 +1,37 @@
+{
+  "glyphs": 120,
+  "reference_glyphs": 50,
+  "reviewed": 120,
+  "pending": 0,
+  "screenshot_pages": 23,
+  "revised": 32,
+  "font_sha256": {
+    "LUNARSERIF-Regular.ttf": "ae76873455ad6662fa336517182166c96d9cea2032b37b76a053e69a0ec641b2",
+    "LUNARSERIF-Regular.woff2": "09e4e90cc0c570bd9a0ed476862c677d9f5c210d9bcb456f80bd69698d39ec2b"
+  },
+  "screenshots": {
+    "upper-1-final.png": "76d3877bb47b05ab3962f5364e094c916662de47138f33ac8866f9b911136722",
+    "upper-2-final.png": "a4cc8e544d130c6d5ea07f5ebc0687706f7186df63a2e4ef9eea879d4b9b00ef",
+    "upper-3-final.png": "2af75ac49afc999ab846106ef81c17864cbacba7f6ecd7c544b9235a21faf48f",
+    "upper-4-final.png": "e2fff6c54c6630db9de808ae5b9c3641041b6a85c3bce89f2db906a4f17ec4c5",
+    "upper-5-final.png": "f0ffab4744cb35d62adb7c58d68ae00a98057db65ea94acadacd89fcee1f94b5",
+    "digits-1-final.png": "1af16b002fb394dc5562a35c576c2627409f86ac8b93760f4ba2404d372cfd8b",
+    "digits-2-final.png": "518eb2fc77fef94d7111e945bf9b2911c30014ac52f875829cdc6d9dbf06b142",
+    "lower-1-final.png": "34ddcbd9b5a90918c7003ac6d927d592dc488f52f5f88a467bf012d83a90640f",
+    "lower-2-final.png": "e20e780d0d42407cf8faf787f74bc5e7ec82bb4f0dd693b1d1270834fa3af4b0",
+    "lower-3-final.png": "857c24150323a553f606a212c62588a315fc7af4df7fa0a68099e2b2639550ac",
+    "lower-4-final.png": "3ad454e617efd73551b963845dddd5f1badabfebece06ea95a47a6db89a1879f",
+    "lower-5-final.png": "4f07eb53ce8bf0a5ee1f88200f16fff6906d44bd795bad8f089a2643a8c2a01d",
+    "japanese-1-final.png": "cf88d3d5ce56983652677274e631b0b2829448ed14f205a445a0c80e4b8a6b9b",
+    "japanese-2-final.png": "b351086284a7bb3e6b7b2d248a7f893786e6fa89ed659a82ba57be4bb07e1f10",
+    "japanese-3-final.png": "ee07109d59430b827594c6fadca739e4cf35588d66bae744a6de1923df908d76",
+    "symbols-1-final.png": "733478fd2f1dec39a3d55364683d0a1b50c85d280927e2edca20984914b39b48",
+    "symbols-2-final.png": "a9af67c506f9dd773360deeda1076b044ad1577b31de497f8364daca06e72ad1",
+    "symbols-3-final.png": "2dcca09497a22cb4633d1085cbacb385c87cf76e929407a30267f702f6ff3629",
+    "symbols-4-final.png": "2b8787e8cdf6053505bf8a986a6eb8203b1789df6e58417bdfd3d48a3e70a638",
+    "symbols-5-final.png": "99cb4429445e7f4b59b57f1a23aafb6638245f807505114ec1534f5c2b8ab76d",
+    "symbols-6-final.png": "d2caa733f3cde11bd7e042e181a7605b745aae31cbb821235bc231e8d7b81f3d",
+    "symbols-7-final.png": "0f5ef3a997815e56426cb4312f9945c3f770d09fbb69535ed355ec17f705578e",
+    "symbols-8-final.png": "31a0d6bbaa16604dca3a494d33261c2bb50f5c0aaf94c564e21c40b7a26d828f"
+  }
+}

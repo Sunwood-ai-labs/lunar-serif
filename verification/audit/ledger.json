@@ -14,7 +14,10 @@
       929,
       428
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "横棒を上げ、幅を調整。鋭い頂点と細い左斜線を維持。",
+    "evidence": "upper-1-final.png"
   },
   "uni0042": {
     "char": "B",
@@ -31,7 +34,10 @@
       974,
       427
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "上下の空洞を確認。見本に対して広かった幅を縮小。",
+    "evidence": "upper-1-final.png"
   },
   "uni0043": {
     "char": "C",
@@ -48,7 +54,10 @@
       1024,
       428
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "開口・上下端・実寸を確認。ロゴを優先した形。下部の太さは見本と差が残る。",
+    "evidence": "upper-1-final.png"
   },
   "uni0044": {
     "char": "D",
@@ -65,7 +74,10 @@
       1073,
       428
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "幅を縮小。縦線と曲線の接続、空洞を確認。",
+    "evidence": "upper-1-final.png"
   },
   "uni0045": {
     "char": "E",
@@ -82,7 +94,10 @@
       1118,
       427
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "横棒と終端を確認。大きなロゴの形を優先。",
+    "evidence": "upper-1-final.png"
   },
   "uni0046": {
     "char": "F",
@@ -99,7 +114,10 @@
       1160,
       428
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "中央横棒と終端を確認。小さい見本との曲率差は残る。",
+    "evidence": "upper-1-final.png"
   },
   "uni0047": {
     "char": "G",
@@ -116,7 +134,10 @@
       1214,
       428
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "右下に突き出ていたC由来の線を収め、縦線との接続を修正。",
+    "evidence": "upper-2-final.png"
   },
   "uni0048": {
     "char": "H",
@@ -133,7 +154,10 @@
       1263,
       428
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "横棒と縦線の接続を確認。高コントラストの線を維持。",
+    "evidence": "upper-2-final.png"
   },
   "uni0049": {
     "char": "I",
@@ -150,7 +174,10 @@
       1293,
       428
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "ロゴ基準の幅を維持。上下セリフと実寸を確認。",
+    "evidence": "upper-2-final.png"
   },
   "uni004A": {
     "char": "J",
@@ -167,7 +194,10 @@
       1324,
       435
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "幅を縮小。下端の丸い終筆は独自の特徴として維持。",
+    "evidence": "upper-2-final.png"
   },
   "uni004B": {
     "char": "K",
@@ -184,7 +214,10 @@
       1375,
       428
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "交差部と脚を確認。直線的な脚は独自設計として維持。",
+    "evidence": "upper-2-final.png"
   },
   "uni004C": {
     "char": "L",
@@ -201,7 +234,10 @@
       1419,
       428
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "下横棒と右終端を確認。輪郭を維持。",
+    "evidence": "upper-2-final.png"
   },
   "uni004D": {
     "char": "M",
@@ -218,7 +254,10 @@
       1479,
       428
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "幅を拡大。中央の接続と左右の細太を確認。",
+    "evidence": "upper-3-final.png"
   },
   "uni004E": {
     "char": "N",
@@ -235,7 +274,10 @@
       927,
       498
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "ロゴ基準の流れる対角線を維持。一覧見本と形が異なることを明記。",
+    "evidence": "upper-3-final.png"
   },
   "uni004F": {
     "char": "O",
@@ -252,7 +294,10 @@
       976,
       498
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "ロゴ基準の月と星を維持。一覧見本は装飾なしである。",
+    "evidence": "upper-3-final.png"
   },
   "O.plain": {
     "char": null,
@@ -264,7 +309,10 @@
       710
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "ss01の装飾なしO。輪郭と機能切替を確認。",
+    "evidence": "symbols-8-final.png"
   },
   "uni0050": {
     "char": "P",
@@ -281,7 +329,10 @@
       1014,
       498
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "上部が広すぎたため幅を縮小。空洞を確認。",
+    "evidence": "upper-3-final.png"
   },
   "uni0051": {
     "char": "Q",
@@ -298,7 +349,10 @@
       1067,
       504
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "払いの始点を左へ移し、見本の横断する曲線に近づけた。",
+    "evidence": "upper-3-final.png"
   },
   "uni0052": {
     "char": "R",
@@ -315,7 +369,10 @@
       1111,
       498
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "幅を調整。上部の空洞と流れる脚を確認。",
+    "evidence": "upper-3-final.png"
   },
   "uni0053": {
     "char": "S",
@@ -332,7 +389,10 @@
       1149,
       498
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "ロゴ基準の細い比率を維持。腰の曲率は完全一致ではない。",
+    "evidence": "upper-4-final.png"
   },
   "uni0054": {
     "char": "T",
@@ -349,7 +409,10 @@
       1195,
       498
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "横棒端と幹の接続を確認。ロゴ基準の幅を維持。",
+    "evidence": "upper-4-final.png"
   },
   "uni0055": {
     "char": "U",
@@ -366,7 +429,10 @@
       1241,
       498
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "下部の連続性を確認。見本より繊細な下部を維持。",
+    "evidence": "upper-4-final.png"
   },
   "uni0056": {
     "char": "V",
@@ -383,7 +449,10 @@
       1290,
       498
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "頂点の接続と実寸を確認。隣接文字との実輪郭交差なし。",
+    "evidence": "upper-4-final.png"
   },
   "uni0057": {
     "char": "W",
@@ -400,7 +469,10 @@
       1354,
       497
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "中央上端にセリフを追加。下部の接続を確認。",
+    "evidence": "upper-4-final.png"
   },
   "uni0058": {
     "char": "X",
@@ -417,7 +489,10 @@
       1399,
       498
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "交差部と四端を確認。光学的な外接矩形の重なりは実輪郭交差ではない。",
+    "evidence": "upper-4-final.png"
   },
   "uni0059": {
     "char": "Y",
@@ -434,7 +509,10 @@
       1443,
       498
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "分岐と縦線の接続を重ね、微小な切れ目を防止。",
+    "evidence": "upper-5-final.png"
   },
   "uni005A": {
     "char": "Z",
@@ -451,7 +529,10 @@
       1484,
       498
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "上下横棒・斜線・終端を確認。輪郭を維持。",
+    "evidence": "upper-5-final.png"
   },
   "uni0061": {
     "char": "a",
@@ -463,7 +544,10 @@
       470
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-1-final.png"
   },
   "uni0062": {
     "char": "b",
@@ -475,7 +559,10 @@
       700
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-1-final.png"
   },
   "uni0063": {
     "char": "c",
@@ -487,7 +574,10 @@
       470
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-1-final.png"
   },
   "uni0064": {
     "char": "d",
@@ -499,7 +589,10 @@
       700
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-1-final.png"
   },
   "uni0065": {
     "char": "e",
@@ -511,7 +604,10 @@
       470
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-1-final.png"
   },
   "uni0066": {
     "char": "f",
@@ -523,7 +619,10 @@
       710
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-1-final.png"
   },
   "uni0067": {
     "char": "g",
@@ -535,7 +634,10 @@
       491
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "上下の空洞を持つ連続した輪郭に再設計し、首の切れ目を解消。",
+    "evidence": "lower-2-final.png"
   },
   "uni0068": {
     "char": "h",
@@ -547,7 +649,10 @@
       700
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-2-final.png"
   },
   "uni0069": {
     "char": "i",
@@ -559,7 +664,10 @@
       641
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-2-final.png"
   },
   "uni006A": {
     "char": "j",
@@ -571,7 +679,10 @@
       641
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "ベースライン途中の不要なセリフを除去。点と本体の二つの輪郭を確認。",
+    "evidence": "lower-2-final.png"
   },
   "uni006B": {
     "char": "k",
@@ -583,7 +694,10 @@
       700
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-2-final.png"
   },
   "uni006C": {
     "char": "l",
@@ -595,7 +709,10 @@
       700
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-2-final.png"
   },
   "uni006D": {
     "char": "m",
@@ -607,7 +724,10 @@
       470
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-3-final.png"
   },
   "uni006E": {
     "char": "n",
@@ -619,7 +739,10 @@
       470
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-3-final.png"
   },
   "uni006F": {
     "char": "o",
@@ -631,7 +754,10 @@
       470
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-3-final.png"
   },
   "uni0070": {
     "char": "p",
@@ -643,7 +769,10 @@
       470
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-3-final.png"
   },
   "uni0071": {
     "char": "q",
@@ -655,7 +784,10 @@
       470
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-3-final.png"
   },
   "uni0072": {
     "char": "r",
@@ -667,7 +799,10 @@
       470
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-3-final.png"
   },
   "uni0073": {
     "char": "s",
@@ -679,7 +814,10 @@
       470
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-4-final.png"
   },
   "uni0074": {
     "char": "t",
@@ -691,7 +829,10 @@
       606
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-4-final.png"
   },
   "uni0075": {
     "char": "u",
@@ -703,7 +844,10 @@
       460
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-4-final.png"
   },
   "uni0076": {
     "char": "v",
@@ -715,7 +859,10 @@
       460
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-4-final.png"
   },
   "uni0077": {
     "char": "w",
@@ -727,7 +874,10 @@
       460
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-4-final.png"
   },
   "uni0078": {
     "char": "x",
@@ -739,7 +889,10 @@
       463
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-4-final.png"
   },
   "uni0079": {
     "char": "y",
@@ -751,7 +904,10 @@
       460
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-5-final.png"
   },
   "uni007A": {
     "char": "z",
@@ -763,7 +919,10 @@
       460
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。x-height、アセンダー/ディセンダー、接続、空洞、24/48/72pxを確認。独自の字形を維持。",
+    "evidence": "lower-5-final.png"
   },
   "uni0030": {
     "char": "0",
@@ -780,7 +939,10 @@
       928,
       584
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "楕円の空洞と小サイズを確認。等幅数字の送りを維持。",
+    "evidence": "digits-1-final.png"
   },
   "uni0031": {
     "char": "1",
@@ -797,7 +959,10 @@
       976,
       584
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "斜めの旗を短く曲線化し、見本に近づけた。",
+    "evidence": "digits-1-final.png"
   },
   "uni0032": {
     "char": "2",
@@ -814,7 +979,10 @@
       1041,
       584
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "斜線と下横棒を確認。見本より繊細な終端を維持。",
+    "evidence": "digits-1-final.png"
   },
   "uni0033": {
     "char": "3",
@@ -831,7 +999,10 @@
       1102,
       584
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "上下の曲線と中央の接続を確認。",
+    "evidence": "digits-1-final.png"
   },
   "uni0034": {
     "char": "4",
@@ -848,7 +1019,10 @@
       1164,
       584
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "横棒を太くして見本に近づけ、接続を確認。",
+    "evidence": "digits-1-final.png"
   },
   "uni0035": {
     "char": "5",
@@ -865,7 +1039,10 @@
       1224,
       584
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "上横棒と下部を確認。小サイズでも識別可能。",
+    "evidence": "digits-1-final.png"
   },
   "uni0036": {
     "char": "6",
@@ -882,7 +1059,10 @@
       1287,
       584
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "楕円と上部の接続を確認。",
+    "evidence": "digits-2-final.png"
   },
   "uni0037": {
     "char": "7",
@@ -899,7 +1079,10 @@
       1350,
       584
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "上横棒と斜線の接続を確認。",
+    "evidence": "digits-2-final.png"
   },
   "uni0038": {
     "char": "8",
@@ -916,7 +1099,10 @@
       1410,
       584
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "二つの楕円の重なりを廃止。中央の余計な空洞をなくし、二つの空洞に再設計。",
+    "evidence": "digits-2-final.png"
   },
   "uni0039": {
     "char": "9",
@@ -933,21 +1119,30 @@
       1473,
       585
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "楕円と下部の接続を確認。",
+    "evidence": "digits-2-final.png"
   },
   "uni0020": {
     "char": " ",
     "advance": 250,
     "bounds": null,
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "意図した空白で輪郭なし。送り250 UPMを確認。",
+    "evidence": "symbols-1-final.png"
   },
   "uni00A0": {
     "char": " ",
     "advance": 250,
     "bounds": null,
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "意図した空白で輪郭なし。送り250 UPMを確認。",
+    "evidence": "symbols-1-final.png"
   },
   "uni002E": {
     "char": ".",
@@ -959,7 +1154,10 @@
       59
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-1-final.png"
   },
   "uni002C": {
     "char": ",",
@@ -971,7 +1169,10 @@
       60
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-1-final.png"
   },
   "uni003A": {
     "char": ":",
@@ -983,7 +1184,10 @@
       399
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-1-final.png"
   },
   "uni003B": {
     "char": ";",
@@ -995,7 +1199,10 @@
       399
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-1-final.png"
   },
   "uni0021": {
     "char": "!",
@@ -1007,7 +1214,10 @@
       700
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-2-final.png"
   },
   "uni003F": {
     "char": "?",
@@ -1019,7 +1229,10 @@
       710
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-2-final.png"
   },
   "uni002D": {
     "char": "-",
@@ -1031,7 +1244,10 @@
       283
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-2-final.png"
   },
   "uni2013": {
     "char": "–",
@@ -1043,7 +1259,10 @@
       283
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-2-final.png"
   },
   "uni2014": {
     "char": "—",
@@ -1055,7 +1274,10 @@
       283
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-2-final.png"
   },
   "uni005F": {
     "char": "_",
@@ -1067,7 +1289,10 @@
       -90
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-2-final.png"
   },
   "uni002F": {
     "char": "/",
@@ -1079,7 +1304,10 @@
       762
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-3-final.png"
   },
   "uni005C": {
     "char": "\\",
@@ -1091,7 +1319,10 @@
       762
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-3-final.png"
   },
   "uni007C": {
     "char": "|",
@@ -1103,7 +1334,10 @@
       760
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-3-final.png"
   },
   "uni0028": {
     "char": "(",
@@ -1115,7 +1349,10 @@
       790
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-3-final.png"
   },
   "uni0029": {
     "char": ")",
@@ -1127,7 +1364,10 @@
       790
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-3-final.png"
   },
   "uni005B": {
     "char": "[",
@@ -1139,7 +1379,10 @@
       770
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-3-final.png"
   },
   "uni005D": {
     "char": "]",
@@ -1151,7 +1394,10 @@
       770
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-4-final.png"
   },
   "uni007B": {
     "char": "{",
@@ -1163,7 +1409,10 @@
       799
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-4-final.png"
   },
   "uni007D": {
     "char": "}",
@@ -1175,7 +1424,10 @@
       799
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-4-final.png"
   },
   "uni0027": {
     "char": "'",
@@ -1187,7 +1439,10 @@
       700
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-4-final.png"
   },
   "uni0022": {
     "char": "\"",
@@ -1199,7 +1454,10 @@
       700
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-4-final.png"
   },
   "uni0060": {
     "char": "`",
@@ -1211,7 +1469,10 @@
       707
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-4-final.png"
   },
   "uni005E": {
     "char": "^",
@@ -1223,7 +1484,10 @@
       704
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-5-final.png"
   },
   "uni007E": {
     "char": "~",
@@ -1235,7 +1499,10 @@
       319
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-5-final.png"
   },
   "uni002B": {
     "char": "+",
@@ -1247,7 +1514,10 @@
       530
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-5-final.png"
   },
   "uni003D": {
     "char": "=",
@@ -1259,7 +1529,10 @@
       388
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-5-final.png"
   },
   "uni003C": {
     "char": "<",
@@ -1271,7 +1544,10 @@
       529
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-5-final.png"
   },
   "uni003E": {
     "char": ">",
@@ -1283,7 +1559,10 @@
       529
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-5-final.png"
   },
   "uni002A": {
     "char": "*",
@@ -1295,7 +1574,10 @@
       663
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-6-final.png"
   },
   "uni0023": {
     "char": "#",
@@ -1307,7 +1589,10 @@
       701
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-6-final.png"
   },
   "uni0024": {
     "char": "$",
@@ -1319,7 +1604,10 @@
       785
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-6-final.png"
   },
   "uni0025": {
     "char": "%",
@@ -1331,7 +1619,10 @@
       710
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-6-final.png"
   },
   "uni0026": {
     "char": "&",
@@ -1343,7 +1634,10 @@
       710
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-6-final.png"
   },
   "uni0040": {
     "char": "@",
@@ -1355,7 +1649,10 @@
       710
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-6-final.png"
   },
   "uni2018": {
     "char": "‘",
@@ -1367,7 +1664,10 @@
       720
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-7-final.png"
   },
   "uni2019": {
     "char": "’",
@@ -1379,7 +1679,10 @@
       710
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-7-final.png"
   },
   "uni201C": {
     "char": "“",
@@ -1391,7 +1694,10 @@
       720
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "二つ目の引用符を正確な平行移動で生成。崩れた輪郭を修正。",
+    "evidence": "symbols-7-final.png"
   },
   "uni201D": {
     "char": "”",
@@ -1403,7 +1709,10 @@
       710
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "二つ目の引用符を正確な平行移動で生成。崩れた輪郭を修正。",
+    "evidence": "symbols-7-final.png"
   },
   "uni2026": {
     "char": "…",
@@ -1415,7 +1724,10 @@
       59
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-7-final.png"
   },
   "uni00D7": {
     "char": "×",
@@ -1427,7 +1739,10 @@
       495
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "生成見本なし。方向・部品数・位置・実寸・隣接輪郭の交差を確認。形を維持。",
+    "evidence": "symbols-7-final.png"
   },
   "uni30CE": {
     "char": "ノ",
@@ -1444,7 +1759,10 @@
       1025,
       692
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "生成見本から輪郭を再構成し、階段状の段差を曲線化。筆の強弱・交差・空洞・実寸を確認。低解像度由来の細部の差は残る。",
+    "evidence": "japanese-1-final.png"
   },
   "uni30AF": {
     "char": "ク",
@@ -1461,7 +1779,10 @@
       1089,
       693
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "生成見本から輪郭を再構成し、階段状の段差を曲線化。筆の強弱・交差・空洞・実寸を確認。低解像度由来の細部の差は残る。",
+    "evidence": "japanese-1-final.png"
   },
   "uni30C6": {
     "char": "テ",
@@ -1478,7 +1799,10 @@
       1156,
       695
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "生成見本から輪郭を再構成し、階段状の段差を曲線化。筆の強弱・交差・空洞・実寸を確認。低解像度由来の細部の差は残る。",
+    "evidence": "japanese-1-final.png"
   },
   "uni30A3": {
     "char": "ィ",
@@ -1495,7 +1819,10 @@
       1196,
       695
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "生成見本から輪郭を再構成し、階段状の段差を曲線化。筆の強弱・交差・空洞・実寸を確認。低解像度由来の細部の差は残る。",
+    "evidence": "japanese-1-final.png"
   },
   "uni30BB": {
     "char": "セ",
@@ -1512,7 +1839,10 @@
       1262,
       690
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "生成見本から輪郭を再構成し、階段状の段差を曲線化。筆の強弱・交差・空洞・実寸を確認。低解像度由来の細部の差は残る。",
+    "evidence": "japanese-1-final.png"
   },
   "uni30FC": {
     "char": "ー",
@@ -1529,7 +1859,10 @@
       1326,
       674
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "生成見本から輪郭を再構成し、階段状の段差を曲線化。筆の強弱・交差・空洞・実寸を確認。低解像度由来の細部の差は残る。",
+    "evidence": "japanese-1-final.png"
   },
   "uni30CC": {
     "char": "ヌ",
@@ -1546,7 +1879,10 @@
       1379,
       693
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "生成見本から輪郭を再構成し、階段状の段差を曲線化。筆の強弱・交差・空洞・実寸を確認。低解像度由来の細部の差は残る。",
+    "evidence": "japanese-2-final.png"
   },
   "uni306B": {
     "char": "に",
@@ -1563,7 +1899,10 @@
       1104,
       792
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "生成見本から輪郭を再構成し、階段状の段差を曲線化。筆の強弱・交差・空洞・実寸を確認。低解像度由来の細部の差は残る。",
+    "evidence": "japanese-2-final.png"
   },
   "uni3092": {
     "char": "を",
@@ -1580,7 +1919,10 @@
       1398,
       794
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "生成見本から輪郭を再構成し、階段状の段差を曲線化。筆の強弱・交差・空洞・実寸を確認。低解像度由来の細部の差は残る。",
+    "evidence": "japanese-2-final.png"
   },
   "uni3001": {
     "char": "、",
@@ -1597,7 +1939,10 @@
       1142,
       797
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "生成見本から輪郭を再構成し、階段状の段差を曲線化。筆の強弱・交差・空洞・実寸を確認。低解像度由来の細部の差は残る。",
+    "evidence": "japanese-2-final.png"
   },
   "uni3002": {
     "char": "。",
@@ -1614,7 +1959,10 @@
       1430,
       796
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "生成見本から輪郭を再構成し、階段状の段差を曲線化。筆の強弱・交差・空洞・実寸を確認。低解像度由来の細部の差は残る。",
+    "evidence": "japanese-2-final.png"
   },
   "uni4F59": {
     "char": "余",
@@ -1631,7 +1979,10 @@
       1246,
       798
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "生成見本から輪郭を再構成し、階段状の段差を曲線化。筆の強弱・交差・空洞・実寸を確認。低解像度由来の細部の差は残る。",
+    "evidence": "japanese-2-final.png"
   },
   "uni591C": {
     "char": "夜",
@@ -1648,7 +1999,10 @@
       1032,
       798
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "生成見本から輪郭を再構成し、階段状の段差を曲線化。筆の強弱・交差・空洞・実寸を確認。低解像度由来の細部の差は残る。",
+    "evidence": "japanese-3-final.png"
   },
   "uni97FB": {
     "char": "韻",
@@ -1665,7 +2019,10 @@
       1328,
       797
     ],
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "revised",
+    "notes": "生成見本から輪郭を再構成し、階段状の段差を曲線化。筆の強弱・交差・空洞・実寸を確認。低解像度由来の細部の差は残る。",
+    "evidence": "japanese-3-final.png"
   },
   ".notdef": {
     "char": null,
@@ -1677,6 +2034,9 @@
       700
     ],
     "reference_roi": null,
-    "review": "pending"
+    "review": "reviewed",
+    "decision": "retained",
+    "notes": "TTF内の未定義字形を直接描画。代替フォントを使わず枠と斜線を確認。",
+    "evidence": "symbols-8-final.png"
   }
 }

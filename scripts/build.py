@@ -35,8 +35,8 @@ def main():
     fb=FontBuilder(1000,isTTF=True)
     fb.setupGlyphOrder(order); fb.setupCharacterMap(cmap); fb.setupGlyf(glyphs)
     fb.setupHorizontalMetrics(metrics); fb.setupHorizontalHeader(ascent=850,descent=-250,lineGap=80)
-    fb.setupNameTable({'familyName':'LUNAR SERIF','styleName':'Regular','uniqueFontIdentifier':'NOCTISENE:LUNARSERIF:1.001',
-        'fullName':'LUNAR SERIF Regular','psName':'LUNARSERIF-Regular','version':'Version 1.001',
+    fb.setupNameTable({'familyName':'LUNAR SERIF','styleName':'Regular','uniqueFontIdentifier':'NOCTISENE:LUNARSERIF:1.002',
+        'fullName':'LUNAR SERIF Regular','psName':'LUNARSERIF-Regular','version':'Version 1.002',
         'copyright':'Original outlines created for NOCTISENE, 2026. See LICENSE.txt.',
         'description':'Original high-contrast display serif with a crescent and star O. ss01 selects plain O.',
         'licenseDescription':'See accompanying LICENSE.txt for the font and source usage grant.'})
