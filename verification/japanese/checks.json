@@ -1,0 +1,1597 @@
+{
+  "font": "C:\\Prj\\NOCTISENE\\lunar-serif\\outputs\\LUNARSERIFJP-Regular.ttf",
+  "woff2": "C:\\Prj\\NOCTISENE\\lunar-serif\\outputs\\LUNARSERIFJP-Regular.woff2",
+  "sha256": {
+    "ttf": "6187977fbc7b0ecfbf1417c33b8dec1e6089092ec31a43965f5a74c532d2897a",
+    "woff2": "550ca06e46d464e093759f69a1459bdf10d6a5ce1d370a5d4fceed786700814d"
+  },
+  "family": "LUNAR SERIF JP",
+  "units_per_em": 1000,
+  "glyphs": 16730,
+  "cmap_entries": 15624,
+  "jis_enumeration": {
+    "codec": "iso2022_jp strict byte decode",
+    "row_ranges": {
+      "special": "0x21-0x2F",
+      "first": "0x30-0x4F",
+      "second": "0x50-0x74"
+    },
+    "counts": {
+      "special": 524,
+      "first": 2965,
+      "second": 3390,
+      "all": 6879
+    }
+  },
+  "coverage": {
+    "jis_x0208_special": {
+      "expected": 524,
+      "mapped": 524,
+      "missing": [],
+      "missing_count": 0,
+      "notdef": [],
+      "notdef_count": 0,
+      "unknown_glyph_count": 0,
+      "unknown_glyphs": [],
+      "passes": true
+    },
+    "jis_x0208_first": {
+      "expected": 2965,
+      "mapped": 2965,
+      "missing": [],
+      "missing_count": 0,
+      "notdef": [],
+      "notdef_count": 0,
+      "unknown_glyph_count": 0,
+      "unknown_glyphs": [],
+      "passes": true
+    },
+    "jis_x0208_second": {
+      "expected": 3390,
+      "mapped": 3390,
+      "missing": [],
+      "missing_count": 0,
+      "notdef": [],
+      "notdef_count": 0,
+      "unknown_glyph_count": 0,
+      "unknown_glyphs": [],
+      "passes": true
+    },
+    "jis_x0208_all": {
+      "expected": 6879,
+      "mapped": 6879,
+      "missing": [],
+      "missing_count": 0,
+      "notdef": [],
+      "notdef_count": 0,
+      "unknown_glyph_count": 0,
+      "unknown_glyphs": [],
+      "passes": true
+    },
+    "kana": {
+      "expected": 169,
+      "mapped": 169,
+      "missing": [],
+      "missing_count": 0,
+      "notdef": [],
+      "notdef_count": 0,
+      "unknown_glyph_count": 0,
+      "unknown_glyphs": [],
+      "passes": true
+    },
+    "hiragana": {
+      "expected": 83,
+      "mapped": 83,
+      "missing": [],
+      "missing_count": 0,
+      "notdef": [],
+      "notdef_count": 0,
+      "unknown_glyph_count": 0,
+      "unknown_glyphs": [],
+      "passes": true
+    },
+    "katakana": {
+      "expected": 86,
+      "mapped": 86,
+      "missing": [],
+      "missing_count": 0,
+      "notdef": [],
+      "notdef_count": 0,
+      "unknown_glyph_count": 0,
+      "unknown_glyphs": [],
+      "passes": true
+    },
+    "dakuten": {
+      "expected": 42,
+      "mapped": 42,
+      "missing": [],
+      "missing_count": 0,
+      "notdef": [],
+      "notdef_count": 0,
+      "unknown_glyph_count": 0,
+      "unknown_glyphs": [],
+      "passes": true
+    },
+    "handakuten": {
+      "expected": 11,
+      "mapped": 11,
+      "missing": [],
+      "missing_count": 0,
+      "notdef": [],
+      "notdef_count": 0,
+      "unknown_glyph_count": 0,
+      "unknown_glyphs": [],
+      "passes": true
+    },
+    "japanese_symbols": {
+      "expected": 179,
+      "mapped": 179,
+      "missing": [],
+      "missing_count": 0,
+      "notdef": [],
+      "notdef_count": 0,
+      "unknown_glyph_count": 0,
+      "unknown_glyphs": [],
+      "passes": true
+    },
+    "ascii_halfwidth": {
+      "expected": 95,
+      "mapped": 95,
+      "missing": [],
+      "missing_count": 0,
+      "notdef": [],
+      "notdef_count": 0,
+      "unknown_glyph_count": 0,
+      "unknown_glyphs": [],
+      "passes": true
+    },
+    "fullwidth_ascii": {
+      "expected": 94,
+      "mapped": 94,
+      "missing": [],
+      "missing_count": 0,
+      "notdef": [],
+      "notdef_count": 0,
+      "unknown_glyph_count": 0,
+      "unknown_glyphs": [],
+      "passes": true
+    },
+    "fullwidth_brackets": {
+      "expected": 2,
+      "mapped": 2,
+      "missing": [],
+      "missing_count": 0,
+      "notdef": [],
+      "notdef_count": 0,
+      "unknown_glyph_count": 0,
+      "unknown_glyphs": [],
+      "passes": true
+    },
+    "fullwidth_macron": {
+      "expected": 1,
+      "mapped": 1,
+      "missing": [],
+      "missing_count": 0,
+      "notdef": [],
+      "notdef_count": 0,
+      "unknown_glyph_count": 0,
+      "unknown_glyphs": [],
+      "passes": true
+    },
+    "halfwidth_katakana": {
+      "expected": 63,
+      "mapped": 63,
+      "missing": [],
+      "missing_count": 0,
+      "notdef": [],
+      "notdef_count": 0,
+      "unknown_glyph_count": 0,
+      "unknown_glyphs": [],
+      "passes": true
+    },
+    "corpus_required_characters": {
+      "expected": 500,
+      "mapped": 500,
+      "missing": [],
+      "missing_count": 0,
+      "notdef": [],
+      "notdef_count": 0,
+      "unknown_glyph_count": 0,
+      "unknown_glyphs": [],
+      "passes": true
+    },
+    "cmap": {
+      "unicode_entries": 15624,
+      "dangling_target_count": 0,
+      "dangling_targets": [],
+      "passes": true,
+      "unicode_subtable_formats": [
+        4,
+        12
+      ],
+      "has_format_4_or_12": true
+    }
+  },
+  "corpus": {
+    "minimum_codepoints": 300,
+    "codepoints": 1249,
+    "layout_counts": {
+      "horizontal": 4,
+      "vertical": 3,
+      "mixed": 2
+    },
+    "required_layouts_present": true,
+    "mixed_script_example_present": true,
+    "vertical_punctuation_example_present": true,
+    "missing_count": 0,
+    "missing": [],
+    "passes": true
+  },
+  "vertical": {
+    "GSUB_features": [
+      "aalt",
+      "ccmp",
+      "dlig",
+      "frac",
+      "fwid",
+      "hwid",
+      "jp78",
+      "jp83",
+      "liga",
+      "nlck",
+      "ordn",
+      "salt",
+      "ss01",
+      "ss02",
+      "ss19",
+      "sups",
+      "vert",
+      "vkna",
+      "vrt2"
+    ],
+    "GSUB_feature_lookups": {
+      "aalt": {
+        "lookup_indices": [
+          0,
+          1
+        ],
+        "lookup_count": 2,
+        "invalid_lookup_indices": []
+      },
+      "ccmp": {
+        "lookup_indices": [
+          2
+        ],
+        "lookup_count": 1,
+        "invalid_lookup_indices": []
+      },
+      "dlig": {
+        "lookup_indices": [
+          6
+        ],
+        "lookup_count": 1,
+        "invalid_lookup_indices": []
+      },
+      "frac": {
+        "lookup_indices": [
+          4
+        ],
+        "lookup_count": 1,
+        "invalid_lookup_indices": []
+      },
+      "fwid": {
+        "lookup_indices": [
+          8
+        ],
+        "lookup_count": 1,
+        "invalid_lookup_indices": []
+      },
+      "hwid": {
+        "lookup_indices": [
+          9
+        ],
+        "lookup_count": 1,
+        "invalid_lookup_indices": []
+      },
+      "jp78": {
+        "lookup_indices": [
+          10
+        ],
+        "lookup_count": 1,
+        "invalid_lookup_indices": []
+      },
+      "jp83": {
+        "lookup_indices": [
+          11
+        ],
+        "lookup_count": 1,
+        "invalid_lookup_indices": []
+      },
+      "liga": {
+        "lookup_indices": [
+          7
+        ],
+        "lookup_count": 1,
+        "invalid_lookup_indices": []
+      },
+      "nlck": {
+        "lookup_indices": [
+          12
+        ],
+        "lookup_count": 1,
+        "invalid_lookup_indices": []
+      },
+      "ordn": {
+        "lookup_indices": [
+          5
+        ],
+        "lookup_count": 1,
+        "invalid_lookup_indices": []
+      },
+      "salt": {
+        "lookup_indices": [
+          16
+        ],
+        "lookup_count": 1,
+        "invalid_lookup_indices": []
+      },
+      "ss01": {
+        "lookup_indices": [
+          20
+        ],
+        "lookup_count": 1,
+        "invalid_lookup_indices": []
+      },
+      "ss02": {
+        "lookup_indices": [
+          18
+        ],
+        "lookup_count": 1,
+        "invalid_lookup_indices": []
+      },
+      "ss19": {
+        "lookup_indices": [
+          17
+        ],
+        "lookup_count": 1,
+        "invalid_lookup_indices": []
+      },
+      "sups": {
+        "lookup_indices": [
+          3
+        ],
+        "lookup_count": 1,
+        "invalid_lookup_indices": []
+      },
+      "vert": {
+        "lookup_indices": [
+          13,
+          21
+        ],
+        "lookup_count": 2,
+        "invalid_lookup_indices": []
+      },
+      "vkna": {
+        "lookup_indices": [
+          14
+        ],
+        "lookup_count": 1,
+        "invalid_lookup_indices": []
+      },
+      "vrt2": {
+        "lookup_indices": [
+          15,
+          22
+        ],
+        "lookup_count": 2,
+        "invalid_lookup_indices": []
+      }
+    },
+    "required_features": {
+      "vert": {
+        "present": true,
+        "lookup_count": 2,
+        "invalid_lookup_indices": [],
+        "passes": true
+      },
+      "vrt2": {
+        "present": true,
+        "lookup_count": 2,
+        "invalid_lookup_indices": [],
+        "passes": true
+      }
+    },
+    "required_vertical_substitutions": {
+      "U+FF3F ＿": {
+        "source_glyph": "supplement.uniFF3F",
+        "vert_targets": [
+          "supplement.uniFF3F.vert"
+        ],
+        "vrt2_targets": [
+          "supplement.uniFF3F.vert"
+        ],
+        "passes": true
+      },
+      "U+FF5C ｜": {
+        "source_glyph": "supplement.uniFF5C",
+        "vert_targets": [
+          "supplement.uniFF5C.vert"
+        ],
+        "vrt2_targets": [
+          "supplement.uniFF5C.vert"
+        ],
+        "passes": true
+      },
+      "U+FF5F ｟": {
+        "source_glyph": "supplement.uniFF5F",
+        "vert_targets": [
+          "supplement.uniFF5F.vert"
+        ],
+        "vrt2_targets": [
+          "supplement.uniFF5F.vert"
+        ],
+        "passes": true
+      },
+      "U+FF60 ｠": {
+        "source_glyph": "supplement.uniFF60",
+        "vert_targets": [
+          "supplement.uniFF60.vert"
+        ],
+        "vrt2_targets": [
+          "supplement.uniFF60.vert"
+        ],
+        "passes": true
+      },
+      "U+FFE3 ￣": {
+        "source_glyph": "supplement.uniFFE3",
+        "vert_targets": [
+          "supplement.uniFFE3.vert"
+        ],
+        "vrt2_targets": [
+          "supplement.uniFFE3.vert"
+        ],
+        "passes": true
+      }
+    },
+    "vmetrics": {
+      "vhea_present": true,
+      "vmtx_present": true,
+      "VORG_present": false,
+      "vhea_number_of_metrics": 16131,
+      "mapped_glyphs_checked": 15370,
+      "vmtx_metrics": 16730,
+      "missing_mapped_metrics_count": 0,
+      "missing_mapped_metrics": [],
+      "nonpositive_advance_height_count": 0,
+      "passes": true
+    },
+    "passes": true
+  },
+  "license": {
+    "required_name_ids": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      6,
+      13
+    ],
+    "missing_name_ids": [],
+    "license_description_present": true,
+    "license_marker_present": true,
+    "license_info_url_present": true,
+    "license_info_url_valid": true,
+    "repository_license_file": "C:\\Prj\\NOCTISENE\\lunar-serif\\outputs\\LUNAR-SERIF-JP-OFL.txt",
+    "repository_license_file_ok": true,
+    "repository_license_file_mentions_open_font": true,
+    "passes": true
+  },
+  "ttf_woff2": {
+    "ttf_exists": true,
+    "woff2_exists": true,
+    "glyph_order_equal": true,
+    "cmap_equal": true,
+    "hmtx_equal": true,
+    "outline_equal": true,
+    "outline_mismatch_count": 0,
+    "GSUB_features_equal": true,
+    "name_metadata_equal": true,
+    "passes": true
+  },
+  "base_NOS_outlines": {
+    "comparison_scope": "104 original display cmap entries (including N/O/S) plus ss01 plain O",
+    "display_codepoints_expected": 104,
+    "display_codepoints_checked": 104,
+    "display_codepoints": {
+      "U+0020 ' '": {
+        "base_glyph": "uni0020",
+        "jp_glyph": "lunar.uni0020",
+        "base_outline_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "jp_outline_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "base_advance": 250,
+        "jp_advance": 250,
+        "passes": true
+      },
+      "U+0021 '!'": {
+        "base_glyph": "uni0021",
+        "jp_glyph": "lunar.uni0021",
+        "base_outline_sha256": "0cbaedb15b1e5e543ea39f19a08118166850e7d03a00e228552f3fe5255cdf74",
+        "jp_outline_sha256": "0cbaedb15b1e5e543ea39f19a08118166850e7d03a00e228552f3fe5255cdf74",
+        "base_advance": 231,
+        "jp_advance": 231,
+        "passes": true
+      },
+      "U+0022 '\"'": {
+        "base_glyph": "uni0022",
+        "jp_glyph": "lunar.uni0022",
+        "base_outline_sha256": "b87c912b0690720fce4a5f164887f81132089ed58f920fc96e411e317ea1cb09",
+        "jp_outline_sha256": "b87c912b0690720fce4a5f164887f81132089ed58f920fc96e411e317ea1cb09",
+        "base_advance": 318,
+        "jp_advance": 318,
+        "passes": true
+      },
+      "U+0023 '#'": {
+        "base_glyph": "uni0023",
+        "jp_glyph": "lunar.uni0023",
+        "base_outline_sha256": "92128190e7892df411939112273a01ee358abe4f2974e6664c173a856e7810a7",
+        "jp_outline_sha256": "92128190e7892df411939112273a01ee358abe4f2974e6664c173a856e7810a7",
+        "base_advance": 580,
+        "jp_advance": 580,
+        "passes": true
+      },
+      "U+0024 '$'": {
+        "base_glyph": "uni0024",
+        "jp_glyph": "lunar.uni0024",
+        "base_outline_sha256": "5c0112bf59bf29650d624db956caf308ebbe768a20892e2a598200df9cf13228",
+        "jp_outline_sha256": "5c0112bf59bf29650d624db956caf308ebbe768a20892e2a598200df9cf13228",
+        "base_advance": 575,
+        "jp_advance": 575,
+        "passes": true
+      },
+      "U+0025 '%'": {
+        "base_glyph": "uni0025",
+        "jp_glyph": "lunar.uni0025",
+        "base_outline_sha256": "65f054976c0349fb47e8fe6f36bf6306c8caac006b94192eb125b20b15c352d2",
+        "jp_outline_sha256": "65f054976c0349fb47e8fe6f36bf6306c8caac006b94192eb125b20b15c352d2",
+        "base_advance": 732,
+        "jp_advance": 732,
+        "passes": true
+      },
+      "U+0026 '&'": {
+        "base_glyph": "uni0026",
+        "jp_glyph": "lunar.uni0026",
+        "base_outline_sha256": "20498d13914d5548f98991e34754a70c5af0a51a0b132a49ae3214ef65643ac0",
+        "jp_outline_sha256": "20498d13914d5548f98991e34754a70c5af0a51a0b132a49ae3214ef65643ac0",
+        "base_advance": 672,
+        "jp_advance": 672,
+        "passes": true
+      },
+      "U+0027 \"'\"": {
+        "base_glyph": "uni0027",
+        "jp_glyph": "lunar.uni0027",
+        "base_outline_sha256": "8175858ecadc8ac2c45a616f92685255a763ee79bc5c6ded8ebb8e274df4dbad",
+        "jp_outline_sha256": "8175858ecadc8ac2c45a616f92685255a763ee79bc5c6ded8ebb8e274df4dbad",
+        "base_advance": 184,
+        "jp_advance": 184,
+        "passes": true
+      },
+      "U+0028 '('": {
+        "base_glyph": "uni0028",
+        "jp_glyph": "lunar.uni0028",
+        "base_outline_sha256": "0255dfc8eb0771c638cdec03e1079887eb11cb92da247b1c9a28a5498e53de2e",
+        "jp_outline_sha256": "0255dfc8eb0771c638cdec03e1079887eb11cb92da247b1c9a28a5498e53de2e",
+        "base_advance": 324,
+        "jp_advance": 324,
+        "passes": true
+      },
+      "U+0029 ')'": {
+        "base_glyph": "uni0029",
+        "jp_glyph": "lunar.uni0029",
+        "base_outline_sha256": "925679f0cb4f4a41f851d6737adc650c27a7f1b4ecd21d6ba9e8f12a6dc62437",
+        "jp_outline_sha256": "925679f0cb4f4a41f851d6737adc650c27a7f1b4ecd21d6ba9e8f12a6dc62437",
+        "base_advance": 324,
+        "jp_advance": 324,
+        "passes": true
+      },
+      "U+002A '*'": {
+        "base_glyph": "uni002A",
+        "jp_glyph": "lunar.uni002A",
+        "base_outline_sha256": "831087bc5927473386f560e964ec818773ddee93ad8167c1c2bc687298fd24b1",
+        "jp_outline_sha256": "831087bc5927473386f560e964ec818773ddee93ad8167c1c2bc687298fd24b1",
+        "base_advance": 414,
+        "jp_advance": 414,
+        "passes": true
+      },
+      "U+002B '+'": {
+        "base_glyph": "uni002B",
+        "jp_glyph": "lunar.uni002B",
+        "base_outline_sha256": "f304249b3cbb48ee08cdaaa8f9d4724a25e7167ed5212aec1a63846456ee9e0a",
+        "jp_outline_sha256": "f304249b3cbb48ee08cdaaa8f9d4724a25e7167ed5212aec1a63846456ee9e0a",
+        "base_advance": 554,
+        "jp_advance": 554,
+        "passes": true
+      },
+      "U+002C ','": {
+        "base_glyph": "uni002C",
+        "jp_glyph": "lunar.uni002C",
+        "base_outline_sha256": "de0aea9ceca1e6782b93a71892586cf92d4adf14074d5d11e10d293cfaddfd85",
+        "jp_outline_sha256": "de0aea9ceca1e6782b93a71892586cf92d4adf14074d5d11e10d293cfaddfd85",
+        "base_advance": 218,
+        "jp_advance": 218,
+        "passes": true
+      },
+      "U+002D '-'": {
+        "base_glyph": "uni002D",
+        "jp_glyph": "lunar.uni002D",
+        "base_outline_sha256": "495ff518eab40490b68ece3e890eb16dff4371c95b04fba62339ffc946fb029d",
+        "jp_outline_sha256": "495ff518eab40490b68ece3e890eb16dff4371c95b04fba62339ffc946fb029d",
+        "base_advance": 335,
+        "jp_advance": 335,
+        "passes": true
+      },
+      "U+002E '.'": {
+        "base_glyph": "uni002E",
+        "jp_glyph": "lunar.uni002E",
+        "base_outline_sha256": "98165da3d88cdd5dc263c6dfcdd91a6b8079eeb4d136575911b2ce869856eee0",
+        "jp_outline_sha256": "98165da3d88cdd5dc263c6dfcdd91a6b8079eeb4d136575911b2ce869856eee0",
+        "base_advance": 208,
+        "jp_advance": 208,
+        "passes": true
+      },
+      "U+002F '/'": {
+        "base_glyph": "uni002F",
+        "jp_glyph": "lunar.uni002F",
+        "base_outline_sha256": "30a5e5b89259560b75462bb985a7761264c0d443be6ee15313178aa897b0453d",
+        "jp_outline_sha256": "30a5e5b89259560b75462bb985a7761264c0d443be6ee15313178aa897b0453d",
+        "base_advance": 376,
+        "jp_advance": 376,
+        "passes": true
+      },
+      "U+0030 '0'": {
+        "base_glyph": "uni0030",
+        "jp_glyph": "lunar.uni0030",
+        "base_outline_sha256": "4732f613e453ffc495393900a6eead44a751f1d02b3f4ddf39ce715b624145e3",
+        "jp_outline_sha256": "4732f613e453ffc495393900a6eead44a751f1d02b3f4ddf39ce715b624145e3",
+        "base_advance": 555,
+        "jp_advance": 555,
+        "passes": true
+      },
+      "U+0031 '1'": {
+        "base_glyph": "uni0031",
+        "jp_glyph": "lunar.uni0031",
+        "base_outline_sha256": "5228da533309c1c61b317473a04d4ce2c6af43501e21eb237f74be6e08f4d48d",
+        "jp_outline_sha256": "5228da533309c1c61b317473a04d4ce2c6af43501e21eb237f74be6e08f4d48d",
+        "base_advance": 555,
+        "jp_advance": 555,
+        "passes": true
+      },
+      "U+0032 '2'": {
+        "base_glyph": "uni0032",
+        "jp_glyph": "lunar.uni0032",
+        "base_outline_sha256": "b8c85ef09ab3c5a18ff6500c84ba9541ccae212a1ae25405043a9e4507cd11bf",
+        "jp_outline_sha256": "b8c85ef09ab3c5a18ff6500c84ba9541ccae212a1ae25405043a9e4507cd11bf",
+        "base_advance": 555,
+        "jp_advance": 555,
+        "passes": true
+      },
+      "U+0033 '3'": {
+        "base_glyph": "uni0033",
+        "jp_glyph": "lunar.uni0033",
+        "base_outline_sha256": "4dc088bd946a89ee3cf8a642ed512492f5822329be677f4f1c0e9989f610ec2a",
+        "jp_outline_sha256": "4dc088bd946a89ee3cf8a642ed512492f5822329be677f4f1c0e9989f610ec2a",
+        "base_advance": 555,
+        "jp_advance": 555,
+        "passes": true
+      },
+      "U+0034 '4'": {
+        "base_glyph": "uni0034",
+        "jp_glyph": "lunar.uni0034",
+        "base_outline_sha256": "f84e5fba31b4e0423263abb61bc9d270cbdae77c64550123bfe281730e11dc01",
+        "jp_outline_sha256": "f84e5fba31b4e0423263abb61bc9d270cbdae77c64550123bfe281730e11dc01",
+        "base_advance": 555,
+        "jp_advance": 555,
+        "passes": true
+      },
+      "U+0035 '5'": {
+        "base_glyph": "uni0035",
+        "jp_glyph": "lunar.uni0035",
+        "base_outline_sha256": "16361bccb7179bf96daaa8823d5dce5b48eb3a12951fb7ca70b2a4f1e6a3761f",
+        "jp_outline_sha256": "16361bccb7179bf96daaa8823d5dce5b48eb3a12951fb7ca70b2a4f1e6a3761f",
+        "base_advance": 555,
+        "jp_advance": 555,
+        "passes": true
+      },
+      "U+0036 '6'": {
+        "base_glyph": "uni0036",
+        "jp_glyph": "lunar.uni0036",
+        "base_outline_sha256": "e04c61e440fd273210db7866a1684368768d5287d09bd75bdebfb1727b526235",
+        "jp_outline_sha256": "e04c61e440fd273210db7866a1684368768d5287d09bd75bdebfb1727b526235",
+        "base_advance": 555,
+        "jp_advance": 555,
+        "passes": true
+      },
+      "U+0037 '7'": {
+        "base_glyph": "uni0037",
+        "jp_glyph": "lunar.uni0037",
+        "base_outline_sha256": "c5ec6d3595964581abeddb8c7aa37b51dbb417fe1fd3cdd755feb6395349e6f5",
+        "jp_outline_sha256": "c5ec6d3595964581abeddb8c7aa37b51dbb417fe1fd3cdd755feb6395349e6f5",
+        "base_advance": 555,
+        "jp_advance": 555,
+        "passes": true
+      },
+      "U+0038 '8'": {
+        "base_glyph": "uni0038",
+        "jp_glyph": "lunar.uni0038",
+        "base_outline_sha256": "a44076bea32e04c19b5cf234a445219a6e6e7181dea0b9071d8120735f6e260c",
+        "jp_outline_sha256": "a44076bea32e04c19b5cf234a445219a6e6e7181dea0b9071d8120735f6e260c",
+        "base_advance": 555,
+        "jp_advance": 555,
+        "passes": true
+      },
+      "U+0039 '9'": {
+        "base_glyph": "uni0039",
+        "jp_glyph": "lunar.uni0039",
+        "base_outline_sha256": "64c87386fd1e5ff4d852d1669c9e1b72d340c6053b57aaf379db2ff6043b7c7f",
+        "jp_outline_sha256": "64c87386fd1e5ff4d852d1669c9e1b72d340c6053b57aaf379db2ff6043b7c7f",
+        "base_advance": 555,
+        "jp_advance": 555,
+        "passes": true
+      },
+      "U+003A ':'": {
+        "base_glyph": "uni003A",
+        "jp_glyph": "lunar.uni003A",
+        "base_outline_sha256": "d521a2934d3b596259216a6d9ca334a895626ebd8c4f3f59822bfc1165f5175f",
+        "jp_outline_sha256": "d521a2934d3b596259216a6d9ca334a895626ebd8c4f3f59822bfc1165f5175f",
+        "base_advance": 208,
+        "jp_advance": 208,
+        "passes": true
+      },
+      "U+003B ';'": {
+        "base_glyph": "uni003B",
+        "jp_glyph": "lunar.uni003B",
+        "base_outline_sha256": "ce8c11f3175f5f7c887513a65e207e3e6bd6cf290344aef075bd17a069047f54",
+        "jp_outline_sha256": "ce8c11f3175f5f7c887513a65e207e3e6bd6cf290344aef075bd17a069047f54",
+        "base_advance": 218,
+        "jp_advance": 218,
+        "passes": true
+      },
+      "U+003C '<'": {
+        "base_glyph": "uni003C",
+        "jp_glyph": "lunar.uni003C",
+        "base_outline_sha256": "cc73b3aa20c1e26db61edc6eedc5ad7c45db88c422ee4edb4ca1ec812c356ee7",
+        "jp_outline_sha256": "cc73b3aa20c1e26db61edc6eedc5ad7c45db88c422ee4edb4ca1ec812c356ee7",
+        "base_advance": 554,
+        "jp_advance": 554,
+        "passes": true
+      },
+      "U+003D '='": {
+        "base_glyph": "uni003D",
+        "jp_glyph": "lunar.uni003D",
+        "base_outline_sha256": "f99ccdeb14978dae505bf101286c05f3972fbcb34bba3e85bb3c4ac74e94c9bf",
+        "jp_outline_sha256": "f99ccdeb14978dae505bf101286c05f3972fbcb34bba3e85bb3c4ac74e94c9bf",
+        "base_advance": 554,
+        "jp_advance": 554,
+        "passes": true
+      },
+      "U+003E '>'": {
+        "base_glyph": "uni003E",
+        "jp_glyph": "lunar.uni003E",
+        "base_outline_sha256": "846a3d4baec2675f3b3fbce9d311da6493f22719f90c22ee0a4378c47d6bdca2",
+        "jp_outline_sha256": "846a3d4baec2675f3b3fbce9d311da6493f22719f90c22ee0a4378c47d6bdca2",
+        "base_advance": 554,
+        "jp_advance": 554,
+        "passes": true
+      },
+      "U+003F '?'": {
+        "base_glyph": "uni003F",
+        "jp_glyph": "lunar.uni003F",
+        "base_outline_sha256": "789000623442f1be82883f062d9c74afafff804413c40c5189704bd1d6d29250",
+        "jp_outline_sha256": "789000623442f1be82883f062d9c74afafff804413c40c5189704bd1d6d29250",
+        "base_advance": 443,
+        "jp_advance": 443,
+        "passes": true
+      },
+      "U+0040 '@'": {
+        "base_glyph": "uni0040",
+        "jp_glyph": "lunar.uni0040",
+        "base_outline_sha256": "f755ca2795d47b7e51eb8909fc025d5d00f87882e0ee35ab9965b0652f89af89",
+        "jp_outline_sha256": "f755ca2795d47b7e51eb8909fc025d5d00f87882e0ee35ab9965b0652f89af89",
+        "base_advance": 860,
+        "jp_advance": 860,
+        "passes": true
+      },
+      "U+0041 'A'": {
+        "base_glyph": "uni0041",
+        "jp_glyph": "lunar.uni0041",
+        "base_outline_sha256": "2b92c01aeafae585b8474a01123c3158e6cd057bec494f43dfa861c5b76575ad",
+        "jp_outline_sha256": "2b92c01aeafae585b8474a01123c3158e6cd057bec494f43dfa861c5b76575ad",
+        "base_advance": 576,
+        "jp_advance": 576,
+        "passes": true
+      },
+      "U+0042 'B'": {
+        "base_glyph": "uni0042",
+        "jp_glyph": "lunar.uni0042",
+        "base_outline_sha256": "3bba3ac69cbb41689d17808f9daa205acd05031adba449c5004f81e29e54f45f",
+        "jp_outline_sha256": "3bba3ac69cbb41689d17808f9daa205acd05031adba449c5004f81e29e54f45f",
+        "base_advance": 501,
+        "jp_advance": 501,
+        "passes": true
+      },
+      "U+0043 'C'": {
+        "base_glyph": "uni0043",
+        "jp_glyph": "lunar.uni0043",
+        "base_outline_sha256": "67a39d4e0f0554a4b61d3707cc6f0fc2a2a4e0cf781d27cc63987033d4e4b8c0",
+        "jp_outline_sha256": "67a39d4e0f0554a4b61d3707cc6f0fc2a2a4e0cf781d27cc63987033d4e4b8c0",
+        "base_advance": 633,
+        "jp_advance": 633,
+        "passes": true
+      },
+      "U+0044 'D'": {
+        "base_glyph": "uni0044",
+        "jp_glyph": "lunar.uni0044",
+        "base_outline_sha256": "483c8a0ed5bc1abbd722f3e94680e3f270298cdbcff09aacf24b6a2e193c764d",
+        "jp_outline_sha256": "483c8a0ed5bc1abbd722f3e94680e3f270298cdbcff09aacf24b6a2e193c764d",
+        "base_advance": 597,
+        "jp_advance": 597,
+        "passes": true
+      },
+      "U+0045 'E'": {
+        "base_glyph": "uni0045",
+        "jp_glyph": "lunar.uni0045",
+        "base_outline_sha256": "d69d0e95b067607ea952daa1462850a6eb231425a80ffd7cbe228d6e237e5be4",
+        "jp_outline_sha256": "d69d0e95b067607ea952daa1462850a6eb231425a80ffd7cbe228d6e237e5be4",
+        "base_advance": 526,
+        "jp_advance": 526,
+        "passes": true
+      },
+      "U+0046 'F'": {
+        "base_glyph": "uni0046",
+        "jp_glyph": "lunar.uni0046",
+        "base_outline_sha256": "4bff864198114582337ba61edfe3ad6ed9d710d04f43f5103566d6b9fab08f57",
+        "jp_outline_sha256": "4bff864198114582337ba61edfe3ad6ed9d710d04f43f5103566d6b9fab08f57",
+        "base_advance": 539,
+        "jp_advance": 539,
+        "passes": true
+      },
+      "U+0047 'G'": {
+        "base_glyph": "uni0047",
+        "jp_glyph": "lunar.uni0047",
+        "base_outline_sha256": "1f4217d45814961a1204d42d260874f999c6218294b7123d88b32c376b20355b",
+        "jp_outline_sha256": "1f4217d45814961a1204d42d260874f999c6218294b7123d88b32c376b20355b",
+        "base_advance": 646,
+        "jp_advance": 646,
+        "passes": true
+      },
+      "U+0048 'H'": {
+        "base_glyph": "uni0048",
+        "jp_glyph": "lunar.uni0048",
+        "base_outline_sha256": "450a0c4c0ed5ff5ce1740c1fd326b5705381e04c45ca9e79a6d9e4f1eee8e6f3",
+        "jp_outline_sha256": "450a0c4c0ed5ff5ce1740c1fd326b5705381e04c45ca9e79a6d9e4f1eee8e6f3",
+        "base_advance": 668,
+        "jp_advance": 668,
+        "passes": true
+      },
+      "U+0049 'I'": {
+        "base_glyph": "uni0049",
+        "jp_glyph": "lunar.uni0049",
+        "base_outline_sha256": "c64f0b348a1049b21504c7259cb76ee2ff6a90d7869ffaab31c36ed8a3fcd115",
+        "jp_outline_sha256": "c64f0b348a1049b21504c7259cb76ee2ff6a90d7869ffaab31c36ed8a3fcd115",
+        "base_advance": 314,
+        "jp_advance": 314,
+        "passes": true
+      },
+      "U+004A 'J'": {
+        "base_glyph": "uni004A",
+        "jp_glyph": "lunar.uni004A",
+        "base_outline_sha256": "c7b2a36562ce6152b9041225beeaa577e21bc4bb4586edc4f91d6646955cd1bd",
+        "jp_outline_sha256": "c7b2a36562ce6152b9041225beeaa577e21bc4bb4586edc4f91d6646955cd1bd",
+        "base_advance": 304,
+        "jp_advance": 304,
+        "passes": true
+      },
+      "U+004B 'K'": {
+        "base_glyph": "uni004B",
+        "jp_glyph": "lunar.uni004B",
+        "base_outline_sha256": "bfe364c3daed963333dc990ce3a0ef6662c2de1d3f997533d4c29cf5abc1a685",
+        "jp_outline_sha256": "bfe364c3daed963333dc990ce3a0ef6662c2de1d3f997533d4c29cf5abc1a685",
+        "base_advance": 619,
+        "jp_advance": 619,
+        "passes": true
+      },
+      "U+004C 'L'": {
+        "base_glyph": "uni004C",
+        "jp_glyph": "lunar.uni004C",
+        "base_outline_sha256": "a632cb0ac204e82ab4422b74f6ed066a0bc17a07f28afdc0725e4feccf3ad976",
+        "jp_outline_sha256": "a632cb0ac204e82ab4422b74f6ed066a0bc17a07f28afdc0725e4feccf3ad976",
+        "base_advance": 532,
+        "jp_advance": 532,
+        "passes": true
+      },
+      "U+004D 'M'": {
+        "base_glyph": "uni004D",
+        "jp_glyph": "lunar.uni004D",
+        "base_outline_sha256": "1e63c51595b8407b627ed23474fcb0a6a10e0a6e0a303eaaf2fc6a481f90bd3d",
+        "jp_outline_sha256": "1e63c51595b8407b627ed23474fcb0a6a10e0a6e0a303eaaf2fc6a481f90bd3d",
+        "base_advance": 834,
+        "jp_advance": 834,
+        "passes": true
+      },
+      "U+004E 'N'": {
+        "base_glyph": "uni004E",
+        "jp_glyph": "lunar.uni004E",
+        "base_outline_sha256": "42ba69f1488ebebf1de12bb8eae0f976d5ed2677485a58f3441382061e1679cd",
+        "jp_outline_sha256": "42ba69f1488ebebf1de12bb8eae0f976d5ed2677485a58f3441382061e1679cd",
+        "base_advance": 720,
+        "jp_advance": 720,
+        "passes": true
+      },
+      "U+004F 'O'": {
+        "base_glyph": "uni004F",
+        "jp_glyph": "lunar.uni004F",
+        "base_outline_sha256": "b997d37bb4f48721cd366437dbb6f5e7df1e85fdc9255c065c5b674e47a2f3ec",
+        "jp_outline_sha256": "b997d37bb4f48721cd366437dbb6f5e7df1e85fdc9255c065c5b674e47a2f3ec",
+        "base_advance": 737,
+        "jp_advance": 737,
+        "passes": true
+      },
+      "U+0050 'P'": {
+        "base_glyph": "uni0050",
+        "jp_glyph": "lunar.uni0050",
+        "base_outline_sha256": "602272c95ff1e4e0cde4992fc32eb97db3635a4a963dd3202cd36ff40b994796",
+        "jp_outline_sha256": "602272c95ff1e4e0cde4992fc32eb97db3635a4a963dd3202cd36ff40b994796",
+        "base_advance": 480,
+        "jp_advance": 480,
+        "passes": true
+      },
+      "U+0051 'Q'": {
+        "base_glyph": "uni0051",
+        "jp_glyph": "lunar.uni0051",
+        "base_outline_sha256": "a69f1d7d320c3546e1fe255998152fe3771add87f47b94f07e1497fb152d2d3a",
+        "jp_outline_sha256": "a69f1d7d320c3546e1fe255998152fe3771add87f47b94f07e1497fb152d2d3a",
+        "base_advance": 687,
+        "jp_advance": 687,
+        "passes": true
+      },
+      "U+0052 'R'": {
+        "base_glyph": "uni0052",
+        "jp_glyph": "lunar.uni0052",
+        "base_outline_sha256": "c2f82678263ea22f441ce6635831ba635b9a04a1764dbfba45e0b8e49097f9b1",
+        "jp_outline_sha256": "c2f82678263ea22f441ce6635831ba635b9a04a1764dbfba45e0b8e49097f9b1",
+        "base_advance": 595,
+        "jp_advance": 595,
+        "passes": true
+      },
+      "U+0053 'S'": {
+        "base_glyph": "uni0053",
+        "jp_glyph": "lunar.uni0053",
+        "base_outline_sha256": "d5b695b823dc81a0692fb2a7386afcefa7833708038491473d2082a3ae3a4351",
+        "jp_outline_sha256": "d5b695b823dc81a0692fb2a7386afcefa7833708038491473d2082a3ae3a4351",
+        "base_advance": 460,
+        "jp_advance": 460,
+        "passes": true
+      },
+      "U+0054 'T'": {
+        "base_glyph": "uni0054",
+        "jp_glyph": "lunar.uni0054",
+        "base_outline_sha256": "9615d8db7e7da3f25b8a37655bdcd009c148ee2b6c7e0e4440b09b98dfd0d49e",
+        "jp_outline_sha256": "9615d8db7e7da3f25b8a37655bdcd009c148ee2b6c7e0e4440b09b98dfd0d49e",
+        "base_advance": 552,
+        "jp_advance": 552,
+        "passes": true
+      },
+      "U+0055 'U'": {
+        "base_glyph": "uni0055",
+        "jp_glyph": "lunar.uni0055",
+        "base_outline_sha256": "d672445839aee3af30c0f0d67baf07629ea34ed4ec5e6255e8eaf9029afa1d06",
+        "jp_outline_sha256": "d672445839aee3af30c0f0d67baf07629ea34ed4ec5e6255e8eaf9029afa1d06",
+        "base_advance": 657,
+        "jp_advance": 657,
+        "passes": true
+      },
+      "U+0056 'V'": {
+        "base_glyph": "uni0056",
+        "jp_glyph": "lunar.uni0056",
+        "base_outline_sha256": "f9845899c21c535c3bc850fa312f42af71660c05ebf5ee43a99a1924088cc38b",
+        "jp_outline_sha256": "f9845899c21c535c3bc850fa312f42af71660c05ebf5ee43a99a1924088cc38b",
+        "base_advance": 605,
+        "jp_advance": 605,
+        "passes": true
+      },
+      "U+0057 'W'": {
+        "base_glyph": "uni0057",
+        "jp_glyph": "lunar.uni0057",
+        "base_outline_sha256": "4abfad4c946387aa3d75d1984c3f65cd84cbb8e18c079ded663059c64f1cbbda",
+        "jp_outline_sha256": "4abfad4c946387aa3d75d1984c3f65cd84cbb8e18c079ded663059c64f1cbbda",
+        "base_advance": 861,
+        "jp_advance": 861,
+        "passes": true
+      },
+      "U+0058 'X'": {
+        "base_glyph": "uni0058",
+        "jp_glyph": "lunar.uni0058",
+        "base_outline_sha256": "6b7851b27a1e58f0a0fcdb4dd39935c1ab4bddfe9971c52034af11f4f6454982",
+        "jp_outline_sha256": "6b7851b27a1e58f0a0fcdb4dd39935c1ab4bddfe9971c52034af11f4f6454982",
+        "base_advance": 602,
+        "jp_advance": 602,
+        "passes": true
+      },
+      "U+0059 'Y'": {
+        "base_glyph": "uni0059",
+        "jp_glyph": "lunar.uni0059",
+        "base_outline_sha256": "b28180cdbfffb3917b255154f9b26a14ac275ac8702aaaeefd77a4cb3b66af58",
+        "jp_outline_sha256": "b28180cdbfffb3917b255154f9b26a14ac275ac8702aaaeefd77a4cb3b66af58",
+        "base_advance": 584,
+        "jp_advance": 584,
+        "passes": true
+      },
+      "U+005A 'Z'": {
+        "base_glyph": "uni005A",
+        "jp_glyph": "lunar.uni005A",
+        "base_outline_sha256": "c4ade995139baa3c50d3f168711ff0f3a2700093f449b21023775ef63432f11c",
+        "jp_outline_sha256": "c4ade995139baa3c50d3f168711ff0f3a2700093f449b21023775ef63432f11c",
+        "base_advance": 575,
+        "jp_advance": 575,
+        "passes": true
+      },
+      "U+005B '['": {
+        "base_glyph": "uni005B",
+        "jp_glyph": "lunar.uni005B",
+        "base_outline_sha256": "fbc357c2f3894916ef82d51a6c0a044f1dbc14d1c95eef6f98d43306b7032817",
+        "jp_outline_sha256": "fbc357c2f3894916ef82d51a6c0a044f1dbc14d1c95eef6f98d43306b7032817",
+        "base_advance": 317,
+        "jp_advance": 317,
+        "passes": true
+      },
+      "U+005C '\\\\'": {
+        "base_glyph": "uni005C",
+        "jp_glyph": "lunar.uni005C",
+        "base_outline_sha256": "d928ee88a54666fd8424bc6cfbefb5b72750a3d1891d329db7dfbbcedc05f993",
+        "jp_outline_sha256": "d928ee88a54666fd8424bc6cfbefb5b72750a3d1891d329db7dfbbcedc05f993",
+        "base_advance": 376,
+        "jp_advance": 376,
+        "passes": true
+      },
+      "U+005D ']'": {
+        "base_glyph": "uni005D",
+        "jp_glyph": "lunar.uni005D",
+        "base_outline_sha256": "075093c6c0b16b37ce7f97b1f02bad1696f23ed050b3d107b440e6ba2d035a60",
+        "jp_outline_sha256": "075093c6c0b16b37ce7f97b1f02bad1696f23ed050b3d107b440e6ba2d035a60",
+        "base_advance": 317,
+        "jp_advance": 317,
+        "passes": true
+      },
+      "U+005E '^'": {
+        "base_glyph": "uni005E",
+        "jp_glyph": "lunar.uni005E",
+        "base_outline_sha256": "deef28ebb43ffd9953393b4816819af0d421b1d810aa06144c3dbd4da790e6ce",
+        "jp_outline_sha256": "deef28ebb43ffd9953393b4816819af0d421b1d810aa06144c3dbd4da790e6ce",
+        "base_advance": 470,
+        "jp_advance": 470,
+        "passes": true
+      },
+      "U+005F '_'": {
+        "base_glyph": "uni005F",
+        "jp_glyph": "lunar.uni005F",
+        "base_outline_sha256": "44da3e029840388427ede3c9d9dd8f2527ae5ab96080bc1bb8614dbd6214f6bb",
+        "jp_outline_sha256": "44da3e029840388427ede3c9d9dd8f2527ae5ab96080bc1bb8614dbd6214f6bb",
+        "base_advance": 540,
+        "jp_advance": 540,
+        "passes": true
+      },
+      "U+0060 '`'": {
+        "base_glyph": "uni0060",
+        "jp_glyph": "lunar.uni0060",
+        "base_outline_sha256": "8c5e935ccc1045f08d9e3af4f6bd0dc39c697a9ed733915773786f7dda071fef",
+        "jp_outline_sha256": "8c5e935ccc1045f08d9e3af4f6bd0dc39c697a9ed733915773786f7dda071fef",
+        "base_advance": 249,
+        "jp_advance": 249,
+        "passes": true
+      },
+      "U+0061 'a'": {
+        "base_glyph": "uni0061",
+        "jp_glyph": "lunar.uni0061",
+        "base_outline_sha256": "81e9aabab5a1b1589513182673839c463ac50e30e0ed127f1629b87f978fb093",
+        "jp_outline_sha256": "81e9aabab5a1b1589513182673839c463ac50e30e0ed127f1629b87f978fb093",
+        "base_advance": 492,
+        "jp_advance": 492,
+        "passes": true
+      },
+      "U+0062 'b'": {
+        "base_glyph": "uni0062",
+        "jp_glyph": "lunar.uni0062",
+        "base_outline_sha256": "17106e1896af4317749c9fa65fffe4ca77702ee3f4ccad5a64879d7d5fc3b027",
+        "jp_outline_sha256": "17106e1896af4317749c9fa65fffe4ca77702ee3f4ccad5a64879d7d5fc3b027",
+        "base_advance": 515,
+        "jp_advance": 515,
+        "passes": true
+      },
+      "U+0063 'c'": {
+        "base_glyph": "uni0063",
+        "jp_glyph": "lunar.uni0063",
+        "base_outline_sha256": "37cf56024fa007b8638d3e4094d093482265901d99af20831ff1526e76c94515",
+        "jp_outline_sha256": "37cf56024fa007b8638d3e4094d093482265901d99af20831ff1526e76c94515",
+        "base_advance": 463,
+        "jp_advance": 463,
+        "passes": true
+      },
+      "U+0064 'd'": {
+        "base_glyph": "uni0064",
+        "jp_glyph": "lunar.uni0064",
+        "base_outline_sha256": "cd79ec29a4bf07f4b5ffb43c7a6d8e7122db4e31216ef46e8466fbbdacf60b2f",
+        "jp_outline_sha256": "cd79ec29a4bf07f4b5ffb43c7a6d8e7122db4e31216ef46e8466fbbdacf60b2f",
+        "base_advance": 526,
+        "jp_advance": 526,
+        "passes": true
+      },
+      "U+0065 'e'": {
+        "base_glyph": "uni0065",
+        "jp_glyph": "lunar.uni0065",
+        "base_outline_sha256": "309979939773b6ffacdc2100a21bde6d4ec89044235d4c4667e34bd44e9cd54f",
+        "jp_outline_sha256": "309979939773b6ffacdc2100a21bde6d4ec89044235d4c4667e34bd44e9cd54f",
+        "base_advance": 464,
+        "jp_advance": 464,
+        "passes": true
+      },
+      "U+0066 'f'": {
+        "base_glyph": "uni0066",
+        "jp_glyph": "lunar.uni0066",
+        "base_outline_sha256": "1b9b51400325b31b0b0a9127262d735e77293a93fa223bde4f4dcb27648913ce",
+        "jp_outline_sha256": "1b9b51400325b31b0b0a9127262d735e77293a93fa223bde4f4dcb27648913ce",
+        "base_advance": 318,
+        "jp_advance": 318,
+        "passes": true
+      },
+      "U+0067 'g'": {
+        "base_glyph": "uni0067",
+        "jp_glyph": "lunar.uni0067",
+        "base_outline_sha256": "7a7430a74d0275c4e21cd4de22da69f6e0b8815b56c14c8873659d1c2b820b34",
+        "jp_outline_sha256": "7a7430a74d0275c4e21cd4de22da69f6e0b8815b56c14c8873659d1c2b820b34",
+        "base_advance": 499,
+        "jp_advance": 499,
+        "passes": true
+      },
+      "U+0068 'h'": {
+        "base_glyph": "uni0068",
+        "jp_glyph": "lunar.uni0068",
+        "base_outline_sha256": "7c1763bfcdb89fef4dc90109ce467ffb0fa35d8a899a8a473bf053f01c8edb34",
+        "jp_outline_sha256": "7c1763bfcdb89fef4dc90109ce467ffb0fa35d8a899a8a473bf053f01c8edb34",
+        "base_advance": 500,
+        "jp_advance": 500,
+        "passes": true
+      },
+      "U+0069 'i'": {
+        "base_glyph": "uni0069",
+        "jp_glyph": "lunar.uni0069",
+        "base_outline_sha256": "233e11737ff9b60995e619b23a3acee81906452eec47284eede64e61001f2a27",
+        "jp_outline_sha256": "233e11737ff9b60995e619b23a3acee81906452eec47284eede64e61001f2a27",
+        "base_advance": 240,
+        "jp_advance": 240,
+        "passes": true
+      },
+      "U+006A 'j'": {
+        "base_glyph": "uni006A",
+        "jp_glyph": "lunar.uni006A",
+        "base_outline_sha256": "8b7782b939163f540c0700845b960203155b007d3c05bdbb42c2e83075ed9714",
+        "jp_outline_sha256": "8b7782b939163f540c0700845b960203155b007d3c05bdbb42c2e83075ed9714",
+        "base_advance": 243,
+        "jp_advance": 243,
+        "passes": true
+      },
+      "U+006B 'k'": {
+        "base_glyph": "uni006B",
+        "jp_glyph": "lunar.uni006B",
+        "base_outline_sha256": "6509d40608a88c9c3cb73dbdcd31e8aa082da767cad63af340fd0331733bc9c3",
+        "jp_outline_sha256": "6509d40608a88c9c3cb73dbdcd31e8aa082da767cad63af340fd0331733bc9c3",
+        "base_advance": 478,
+        "jp_advance": 478,
+        "passes": true
+      },
+      "U+006C 'l'": {
+        "base_glyph": "uni006C",
+        "jp_glyph": "lunar.uni006C",
+        "base_outline_sha256": "32791ef91f77bb5b35e8730c6b2f3e610b0df77abc088502815b6346610fc20e",
+        "jp_outline_sha256": "32791ef91f77bb5b35e8730c6b2f3e610b0df77abc088502815b6346610fc20e",
+        "base_advance": 246,
+        "jp_advance": 246,
+        "passes": true
+      },
+      "U+006D 'm'": {
+        "base_glyph": "uni006D",
+        "jp_glyph": "lunar.uni006D",
+        "base_outline_sha256": "de6b0aebf5c0748925cd63a25edb9488a4789327242f95fbc0ec6084124c00b7",
+        "jp_outline_sha256": "de6b0aebf5c0748925cd63a25edb9488a4789327242f95fbc0ec6084124c00b7",
+        "base_advance": 774,
+        "jp_advance": 774,
+        "passes": true
+      },
+      "U+006E 'n'": {
+        "base_glyph": "uni006E",
+        "jp_glyph": "lunar.uni006E",
+        "base_outline_sha256": "ca56e72912bc69695d86bb64fb331574138e4bfc79812e4b568bb16a2b2787cf",
+        "jp_outline_sha256": "ca56e72912bc69695d86bb64fb331574138e4bfc79812e4b568bb16a2b2787cf",
+        "base_advance": 500,
+        "jp_advance": 500,
+        "passes": true
+      },
+      "U+006F 'o'": {
+        "base_glyph": "uni006F",
+        "jp_glyph": "lunar.uni006F",
+        "base_outline_sha256": "fce597c9b1b6649de6feebceb3f61675e56fb31c7fe14376b925f83018c00495",
+        "jp_outline_sha256": "fce597c9b1b6649de6feebceb3f61675e56fb31c7fe14376b925f83018c00495",
+        "base_advance": 511,
+        "jp_advance": 511,
+        "passes": true
+      },
+      "U+0070 'p'": {
+        "base_glyph": "uni0070",
+        "jp_glyph": "lunar.uni0070",
+        "base_outline_sha256": "80f81ce55b4ab84a811e39334acbc9fcc9b3c8b6655c184e4f1d3efbddd7cce2",
+        "jp_outline_sha256": "80f81ce55b4ab84a811e39334acbc9fcc9b3c8b6655c184e4f1d3efbddd7cce2",
+        "base_advance": 521,
+        "jp_advance": 521,
+        "passes": true
+      },
+      "U+0071 'q'": {
+        "base_glyph": "uni0071",
+        "jp_glyph": "lunar.uni0071",
+        "base_outline_sha256": "58c4fa06938f9071c0d2977f0682e518157c37d014f29e36f9ac45ec58188bfd",
+        "jp_outline_sha256": "58c4fa06938f9071c0d2977f0682e518157c37d014f29e36f9ac45ec58188bfd",
+        "base_advance": 526,
+        "jp_advance": 526,
+        "passes": true
+      },
+      "U+0072 'r'": {
+        "base_glyph": "uni0072",
+        "jp_glyph": "lunar.uni0072",
+        "base_outline_sha256": "85f2b9fa2f5896fc6585bd3c6fe0f65487776b8cf4f8a639813ac01f17a2de0f",
+        "jp_outline_sha256": "85f2b9fa2f5896fc6585bd3c6fe0f65487776b8cf4f8a639813ac01f17a2de0f",
+        "base_advance": 365,
+        "jp_advance": 365,
+        "passes": true
+      },
+      "U+0073 's'": {
+        "base_glyph": "uni0073",
+        "jp_glyph": "lunar.uni0073",
+        "base_outline_sha256": "bd3abc99bddbfd048c2f6162589784e50a7730c5642c430ca4c86186b7997d80",
+        "jp_outline_sha256": "bd3abc99bddbfd048c2f6162589784e50a7730c5642c430ca4c86186b7997d80",
+        "base_advance": 414,
+        "jp_advance": 414,
+        "passes": true
+      },
+      "U+0074 't'": {
+        "base_glyph": "uni0074",
+        "jp_glyph": "lunar.uni0074",
+        "base_outline_sha256": "a09892bf23ce980267d1db7177222424ecec45831de0273151cdcff15ddba9c6",
+        "jp_outline_sha256": "a09892bf23ce980267d1db7177222424ecec45831de0273151cdcff15ddba9c6",
+        "base_advance": 330,
+        "jp_advance": 330,
+        "passes": true
+      },
+      "U+0075 'u'": {
+        "base_glyph": "uni0075",
+        "jp_glyph": "lunar.uni0075",
+        "base_outline_sha256": "9a84076f2d8a517b51597d3874ad499a62baaf9aa8633335f001369c9b7a1467",
+        "jp_outline_sha256": "9a84076f2d8a517b51597d3874ad499a62baaf9aa8633335f001369c9b7a1467",
+        "base_advance": 507,
+        "jp_advance": 507,
+        "passes": true
+      },
+      "U+0076 'v'": {
+        "base_glyph": "uni0076",
+        "jp_glyph": "lunar.uni0076",
+        "base_outline_sha256": "9692d1358e6260dce5cd828065b3d2c4390d3a24e64827d0701bb9119dd6b2dc",
+        "jp_outline_sha256": "9692d1358e6260dce5cd828065b3d2c4390d3a24e64827d0701bb9119dd6b2dc",
+        "base_advance": 459,
+        "jp_advance": 459,
+        "passes": true
+      },
+      "U+0077 'w'": {
+        "base_glyph": "uni0077",
+        "jp_glyph": "lunar.uni0077",
+        "base_outline_sha256": "0f4a66d3223febd4759012e1b4fc70eff52b714d499b65bca9236ef8e70817ed",
+        "jp_outline_sha256": "0f4a66d3223febd4759012e1b4fc70eff52b714d499b65bca9236ef8e70817ed",
+        "base_advance": 681,
+        "jp_advance": 681,
+        "passes": true
+      },
+      "U+0078 'x'": {
+        "base_glyph": "uni0078",
+        "jp_glyph": "lunar.uni0078",
+        "base_outline_sha256": "55b58ce11efdd5c5e267b93a71c194d9e9979480cb7b02040ee320b870067cd6",
+        "jp_outline_sha256": "55b58ce11efdd5c5e267b93a71c194d9e9979480cb7b02040ee320b870067cd6",
+        "base_advance": 457,
+        "jp_advance": 457,
+        "passes": true
+      },
+      "U+0079 'y'": {
+        "base_glyph": "uni0079",
+        "jp_glyph": "lunar.uni0079",
+        "base_outline_sha256": "5f50e470f2b483305aaa8a7235ccfbe20ed1d1a164b22822a7c362bab19b1450",
+        "jp_outline_sha256": "5f50e470f2b483305aaa8a7235ccfbe20ed1d1a164b22822a7c362bab19b1450",
+        "base_advance": 459,
+        "jp_advance": 459,
+        "passes": true
+      },
+      "U+007A 'z'": {
+        "base_glyph": "uni007A",
+        "jp_glyph": "lunar.uni007A",
+        "base_outline_sha256": "10395288aa65ad16bb402ebdd6d90187a18ea2461532929c9a6e86b941f929b0",
+        "jp_outline_sha256": "10395288aa65ad16bb402ebdd6d90187a18ea2461532929c9a6e86b941f929b0",
+        "base_advance": 434,
+        "jp_advance": 434,
+        "passes": true
+      },
+      "U+007B '{'": {
+        "base_glyph": "uni007B",
+        "jp_glyph": "lunar.uni007B",
+        "base_outline_sha256": "51e4d176172cf09e971812b0bf72a96127e073b95ecb7c0c7ed9970931a04710",
+        "jp_outline_sha256": "51e4d176172cf09e971812b0bf72a96127e073b95ecb7c0c7ed9970931a04710",
+        "base_advance": 353,
+        "jp_advance": 353,
+        "passes": true
+      },
+      "U+007C '|'": {
+        "base_glyph": "uni007C",
+        "jp_glyph": "lunar.uni007C",
+        "base_outline_sha256": "8107190b7095e77f9c72c01e396168110baf6184ccc53221cec0b46a9eea77d8",
+        "jp_outline_sha256": "8107190b7095e77f9c72c01e396168110baf6184ccc53221cec0b46a9eea77d8",
+        "base_advance": 214,
+        "jp_advance": 214,
+        "passes": true
+      },
+      "U+007D '}'": {
+        "base_glyph": "uni007D",
+        "jp_glyph": "lunar.uni007D",
+        "base_outline_sha256": "ed582b90d11f0d77f86f758abf15f2c70990c69d93e05e928191fb32e561dc01",
+        "jp_outline_sha256": "ed582b90d11f0d77f86f758abf15f2c70990c69d93e05e928191fb32e561dc01",
+        "base_advance": 353,
+        "jp_advance": 353,
+        "passes": true
+      },
+      "U+007E '~'": {
+        "base_glyph": "uni007E",
+        "jp_glyph": "lunar.uni007E",
+        "base_outline_sha256": "07ec8d941dacbfda0c4b7151f7a58c5fc5a3d606b13aac8d65d02a87c77f91a6",
+        "jp_outline_sha256": "07ec8d941dacbfda0c4b7151f7a58c5fc5a3d606b13aac8d65d02a87c77f91a6",
+        "base_advance": 590,
+        "jp_advance": 590,
+        "passes": true
+      },
+      "U+00A0 '\\xa0'": {
+        "base_glyph": "uni00A0",
+        "jp_glyph": "lunar.uni00A0",
+        "base_outline_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "jp_outline_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "base_advance": 250,
+        "jp_advance": 250,
+        "passes": true
+      },
+      "U+00D7 '×'": {
+        "base_glyph": "uni00D7",
+        "jp_glyph": "lunar.uni00D7",
+        "base_outline_sha256": "c12e1ac659e992eb53430d4cd0947394d45e0f321f88106cc6baf928fc3eb67a",
+        "jp_outline_sha256": "c12e1ac659e992eb53430d4cd0947394d45e0f321f88106cc6baf928fc3eb67a",
+        "base_advance": 554,
+        "jp_advance": 554,
+        "passes": true
+      },
+      "U+2013 '–'": {
+        "base_glyph": "uni2013",
+        "jp_glyph": "lunar.uni2013",
+        "base_outline_sha256": "dc458701a69f1e2a2e116188c8da50e5b5e10cb6217515c34ab0acdb52d496a6",
+        "jp_outline_sha256": "dc458701a69f1e2a2e116188c8da50e5b5e10cb6217515c34ab0acdb52d496a6",
+        "base_advance": 550,
+        "jp_advance": 550,
+        "passes": true
+      },
+      "U+2014 '—'": {
+        "base_glyph": "uni2014",
+        "jp_glyph": "lunar.uni2014",
+        "base_outline_sha256": "16c695deed2caed475dabd60092aa6b91a6869ed6012cd8e510b1c097b38f725",
+        "jp_outline_sha256": "16c695deed2caed475dabd60092aa6b91a6869ed6012cd8e510b1c097b38f725",
+        "base_advance": 950,
+        "jp_advance": 950,
+        "passes": true
+      },
+      "U+2018 '‘'": {
+        "base_glyph": "uni2018",
+        "jp_glyph": "lunar.uni2018",
+        "base_outline_sha256": "4339255721da6a1fbd0f37edf6bacbf171bd8a777a0d56341370104ee272cff9",
+        "jp_outline_sha256": "4339255721da6a1fbd0f37edf6bacbf171bd8a777a0d56341370104ee272cff9",
+        "base_advance": 218,
+        "jp_advance": 218,
+        "passes": true
+      },
+      "U+2019 '’'": {
+        "base_glyph": "uni2019",
+        "jp_glyph": "lunar.uni2019",
+        "base_outline_sha256": "f33b6f0741a7a61fb6e15611e569661fdb067865c52f9672fe6d2910a7713ec7",
+        "jp_outline_sha256": "f33b6f0741a7a61fb6e15611e569661fdb067865c52f9672fe6d2910a7713ec7",
+        "base_advance": 218,
+        "jp_advance": 218,
+        "passes": true
+      },
+      "U+201C '“'": {
+        "base_glyph": "uni201C",
+        "jp_glyph": "lunar.uni201C",
+        "base_outline_sha256": "5846eca54d66662cbd2eff271048aeb41b94719755f06a597bc2b67050a7bba8",
+        "jp_outline_sha256": "5846eca54d66662cbd2eff271048aeb41b94719755f06a597bc2b67050a7bba8",
+        "base_advance": 362,
+        "jp_advance": 362,
+        "passes": true
+      },
+      "U+201D '”'": {
+        "base_glyph": "uni201D",
+        "jp_glyph": "lunar.uni201D",
+        "base_outline_sha256": "8d355773f2ec8aa3e8b2c21aa0e0653c56a6684317f9b8f057a8316bf94c989c",
+        "jp_outline_sha256": "8d355773f2ec8aa3e8b2c21aa0e0653c56a6684317f9b8f057a8316bf94c989c",
+        "base_advance": 362,
+        "jp_advance": 362,
+        "passes": true
+      },
+      "U+2026 '…'": {
+        "base_glyph": "uni2026",
+        "jp_glyph": "lunar.uni2026",
+        "base_outline_sha256": "9083d103afa85db8ade6c9ab5c4fa8c6d4e6cbe010b78315d005d031008eec8f",
+        "jp_outline_sha256": "9083d103afa85db8ade6c9ab5c4fa8c6d4e6cbe010b78315d005d031008eec8f",
+        "base_advance": 624,
+        "jp_advance": 624,
+        "passes": true
+      }
+    },
+    "plain_o": {
+      "base_glyphs": [
+        "O.plain"
+      ],
+      "jp_glyphs": [
+        "lunar.O.plain"
+      ],
+      "passes": true,
+      "pairs": [
+        {
+          "base_glyph": "O.plain",
+          "jp_glyph": "lunar.O.plain",
+          "base_outline_sha256": "a90dc65f0b5ebb653dd1669778deb39f18121e633ba018bf0ef35f896b8ad7e1",
+          "jp_outline_sha256": "a90dc65f0b5ebb653dd1669778deb39f18121e633ba018bf0ef35f896b8ad7e1",
+          "base_advance": 737,
+          "jp_advance": 737,
+          "passes": true
+        }
+      ]
+    },
+    "passes": true
+  },
+  "harfbuzz": {
+    "skipped": false,
+    "probe": {
+      "vert": {
+        "glyph_count": 79,
+        "notdef_count": 0,
+        "x_advance_sum": 0,
+        "y_advance_sum": -79000
+      },
+      "vrt2": {
+        "glyph_count": 79,
+        "notdef_count": 0,
+        "x_advance_sum": 0,
+        "y_advance_sum": -79000
+      },
+      "vertical_required": {
+        "U+FF3F": {
+          "disabled": {
+            "gids": [
+              16550
+            ],
+            "notdef_count": 0
+          },
+          "vert": {
+            "gids": [
+              16620
+            ],
+            "notdef_count": 0
+          },
+          "vrt2": {
+            "gids": [
+              16620
+            ],
+            "notdef_count": 0
+          }
+        },
+        "U+FF5C": {
+          "disabled": {
+            "gids": [
+              16552
+            ],
+            "notdef_count": 0
+          },
+          "vert": {
+            "gids": [
+              16621
+            ],
+            "notdef_count": 0
+          },
+          "vrt2": {
+            "gids": [
+              16621
+            ],
+            "notdef_count": 0
+          }
+        },
+        "U+FF5F": {
+          "disabled": {
+            "gids": [
+              16553
+            ],
+            "notdef_count": 0
+          },
+          "vert": {
+            "gids": [
+              16622
+            ],
+            "notdef_count": 0
+          },
+          "vrt2": {
+            "gids": [
+              16622
+            ],
+            "notdef_count": 0
+          }
+        },
+        "U+FF60": {
+          "disabled": {
+            "gids": [
+              16554
+            ],
+            "notdef_count": 0
+          },
+          "vert": {
+            "gids": [
+              16623
+            ],
+            "notdef_count": 0
+          },
+          "vrt2": {
+            "gids": [
+              16623
+            ],
+            "notdef_count": 0
+          }
+        },
+        "U+FFE3": {
+          "disabled": {
+            "gids": [
+              16618
+            ],
+            "notdef_count": 0
+          },
+          "vert": {
+            "gids": [
+              16624
+            ],
+            "notdef_count": 0
+          },
+          "vrt2": {
+            "gids": [
+              16624
+            ],
+            "notdef_count": 0
+          }
+        }
+      }
+    },
+    "passes": true
+  },
+  "checks": {
+    "jis_x0208_first_second_and_special_cmap": true,
+    "kana_dakuten_handakuten_symbols_fullwidth_halfwidth": true,
+    "corpus_missing_zero_and_layouts": true,
+    "vertical_GSUB_and_vmetrics": true,
+    "ttf_woff2_match": true,
+    "license_metadata": true,
+    "base_NOS_outlines": true,
+    "optional_harfbuzz_probe": true
+  },
+  "passes": true
+}

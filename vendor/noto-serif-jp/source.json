@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/google/fonts",
+  "sha256": "2fd527ba12b6a44ec30d796d633360da0aeba6c5d4af1304ce12bb4dc15a7dfc",
+  "project": "Noto Serif JP",
+  "purpose": "Missing JIS symbols, Greek, Cyrillic, fullwidth symbols, halfwidth kana only",
+  "revision": "8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5",
+  "license": "OFL.txt",
+  "url": "https://raw.githubusercontent.com/google/fonts/8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5/ofl/notoserifjp/NotoSerifJP%5Bwght%5D.ttf"
+}

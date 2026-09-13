@@ -1,0 +1,65 @@
+{
+  "schema": "lunar-serif-japanese-acceptance-v1",
+  "title": "LUNAR SERIF JP 実用日本語受入コーパス",
+  "minimum_codepoints": 300,
+  "description": "横書き、縦書き、欧文・数字・半角カナを含む混植の実用文をまとめた固定コーパス。必須文字集合は検証スクリプトがcmapへ照合する。",
+  "required_examples": [
+    {
+      "id": "horizontal-brand-introduction",
+      "layout": "horizontal",
+      "text": "NOCTISENEのためのLUNAR SERIF JPは、夜の静けさ、知性、成熟した余韻を一つの画面に届ける日本語書体です。２０２６年９月１３日、月明かりの下で読む見出しと本文を想定し、細い線、深い黒、静かな白を整えました。かなの流れと漢字の骨格をそろえ、名前、短い詩、作品紹介、配信のお知らせまで自然に組めます。"
+    },
+    {
+      "id": "horizontal-product-note",
+      "layout": "horizontal",
+      "text": "新しい音声作品を公開しました。再生時間は03:45、推奨サイズは1200×630 px、背景色は#111111、文字色は＃Ｆ５Ｆ２ＥＡです。URL: https://noctisene.example.jp/news/01。価格は￥1,200（税込）、受付は09:00–18:00、問い合わせは info@example.jp までお願いします。"
+    },
+    {
+      "id": "vertical-literary-letter",
+      "layout": "vertical",
+      "text": "『月影の手紙』\u3000静かな夜に、遠い灯を思う。\u300cあなたの声は、雨のあとに残る匂いのようでした。明日もこの頁をひらき、言葉の余白をそっと受け取ります。\u300d\u3000―夜凪紫苑"
+    },
+    {
+      "id": "vertical-event-card",
+      "layout": "vertical",
+      "text": "朗読会\u30002026\u3000秋分の夜\u3000第一部 19:00\u3000第二部 20:30\u3000会場『星降る書庫』\u3000定員四十名。静かな席をご希望の方は、予約時にお知らせください。\u2026"
+    },
+    {
+      "id": "mixed-ui-and-code",
+      "layout": "mixed",
+      "text": "混植テスト: 作品名「夜に、余韻を。」／作者 NOCTISENE／ID: JP-001。入力例は かな、漢字、ＡＢＣ、ａｂｃ、１２３、123、ｶﾀｶﾅ、ｶﾞｷﾞ、ﾊﾟﾋﾟ、記号 ! ? + - = / @ # % & です。UIでは[保存] [取消] [次へ]を横書きにし、本文は縦書きに切り替えます。"
+    },
+    {
+      "id": "mixed-technical-guide",
+      "layout": "mixed",
+      "text": "組版の確認では font-family: 'LUNAR SERIF JP', 'Shippori Mincho', serif; font-size: 16px; line-height: 1.8; を指定します。縦組みには writing-mode: vertical-rl; text-orientation: mixed; を使い、vert と vrt2 の置換、句読点の位置、長音符の向きを確認します。半角ABCと全角ＡＢＣ、半角ｶﾅと全角カナ、濁点「゛」と半濁点「゜」が同じ文章で欠落しないことが合格条件です。"
+    },
+    {
+      "id": "horizontal-service-message",
+      "layout": "horizontal",
+      "text": "ご利用ありがとうございます。アカウント設定、通知、公開範囲、保存状態を順番に確認してください。変更を反映するには［更新］を押します。失敗した場合は、時刻、画面名、操作内容を記録し、管理者へ連絡してください。電話番号 03-1234-5678、受付時間 10:00–17:00（土・日・祝日を除く）。"
+    },
+    {
+      "id": "horizontal-poem-and-caption",
+      "layout": "horizontal",
+      "text": "青い夜、白い月、遠い海。静かな部屋でページをめくると、昨日の記憶と明日の希望が重なります。喜びも悲しみも、ひと文字ずつ選んだ声になる。写真の説明には「灯りのそばで微笑む五人」と記し、作品の終わりには、読んでくれた人への感謝を添えます。"
+    },
+    {
+      "id": "vertical-catalogue-caption",
+      "layout": "vertical",
+      "text": "展示番号 A-04\u3000『星と余白』\u3000紙、墨、銀\u3000幅 420 mm × 高さ 594 mm\u3000作家の言葉「見えないものにも輪郭がある」。照明は弱く、作品から一歩離れてご覧ください。"
+    }
+  ],
+  "required_character_sets": {
+    "ascii_halfwidth": " !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~",
+    "fullwidth_ascii": "！＂＃＄％＆＇（）＊＋，－．／０１２３４５６７８９：；＜＝＞？＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ［＼］＾＿｀ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｛｜｝～",
+    "fullwidth_brackets": "｟｠",
+    "fullwidth_macron": "￣",
+    "halfwidth_katakana": "｡｢｣､･ｦｧｨｩｪｫｬｭｮｯｰｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉﾊﾋﾌﾍﾎﾏﾐﾑﾒﾓﾔﾕﾖﾗﾘﾙﾚﾛﾜﾝﾞﾟ",
+    "hiragana": "ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをん",
+    "katakana": "ァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶ",
+    "dakuten": "゛がぎぐげござじずぜぞだぢづでどばびぶべぼガギグゲゴザジズゼゾダヂヅデドバビブベボヴ",
+    "handakuten": "゜ぱぴぷぺぽパピプペポ",
+    "japanese_symbols": "、。，．・：；？！゛゜ヽヾゝゞ〃仝々〆〇ー―‐／＼〜‖｜…‥‘’“”（）〔〕［］｛｝〈〉《》「」『』【】＋−±×÷＝≠＜＞≦≧∞∴♂♀°′″℃￥＄¢£％＃＆＊＠§☆★○●◎◇◆□■△▲▽▼※〒→←↑↓〓"
+  }
+}

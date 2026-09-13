@@ -22,3 +22,8 @@ jobs:
       - run: python scripts/verify.py
       - run: python scripts/verify_geometry.py
       - run: python scripts/verify_spacing.py
+      - run: sha256sum outputs/LUNARSERIFJP-Regular.ttf outputs/LUNARSERIFJP-Regular.woff2 > /tmp/lunar-jp.sha256
+      - run: python scripts/build_jp.py
+      - run: sha256sum --check /tmp/lunar-jp.sha256
+      - run: python scripts/verify_jp.py --harfbuzz-python python
+      - run: python scripts/jp_reference.py

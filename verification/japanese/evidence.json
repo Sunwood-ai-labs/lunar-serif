@@ -1,0 +1,56 @@
+{
+  "captured_on": "2026-09-13",
+  "manifest_created_utc": "2026-09-13T08:20:10.398481+00:00",
+  "font_family": "LUNAR SERIF JP",
+  "version": "1.000",
+  "encoded_characters": 15624,
+  "glyphs": 16730,
+  "font_sha256": {
+    "LUNARSERIFJP-Regular.ttf": "6187977fbc7b0ecfbf1417c33b8dec1e6089092ec31a43965f5a74c532d2897a",
+    "LUNARSERIFJP-Regular.woff2": "550ca06e46d464e093759f69a1459bdf10d6a5ce1d370a5d4fceed786700814d"
+  },
+  "checks_sha256": "8d8f784662a40e6036c60ff01967f8be40882fed442e65809314c79c0943b190",
+  "reference_characters_visually_reviewed": 50,
+  "supplemental_characters_visually_reviewed": 261,
+  "screenshot_count": 21,
+  "screenshots_sha256": {
+    "reference-1.png": "56a56a84eda1a7273ed31287bac4e07f812e0473cd432bc78236c96a0b3c3c72",
+    "reference-2.png": "95873d5b1609bfafd3e93dcccfbf211ffc0db4eb4e59285024fb31e2956954f9",
+    "reference-3.png": "0856d62480e2669e63abe9e765ec8c402d79ac4fc62b98e1beb91100be42f3a8",
+    "reference-4.png": "74b3ee6648624b2b7b072725e04dc39d7f92dba0184f480b2f2aea4b3dc4519f",
+    "reference-5.png": "8edad23ca91fbdb3fc03d60b2da94dad8e437d21391952278a61bd56e120d822",
+    "reference-6.png": "04ae19db0f99f7316575da448eb1beaa7f02434687b48e9efbc3fe81ba20f37c",
+    "reference-7.png": "08483067e34388d8a99e6eb52c04b2e8c7d7dfce3f46c5b50eaab187f05ce585",
+    "reference-8.png": "18c1d81e70502ce6353d6851e212cbce97617eb72cab4c01816c0072610e4816",
+    "reference-9.png": "c1cbc3abfcc861ba0f9dc1d69b6ecfa93c5f32ad587177f3b366624d67033824",
+    "supplement-1.png": "9bfc351a26ddfd35454484959cf98b81f91a01b296a0f5f6a35ed1039a75de38",
+    "supplement-2.png": "25f7e12e093e539651ef23ac175119c0e06a64c4381bffcd849fccb1a61477b3",
+    "supplement-3.png": "afb856e70a8547ba497ff40f0be5db4b460ec6f68c0881610e5898bdf24f5e51",
+    "supplement-vertical.png": "5092c48b8c7469da1576a22051176f82aa085dba87de6b0f19c8bd114b0c3b6c",
+    "desktop-hero.png": "f26a3ae095c09984a4170bc829d026102c2709aae3b4982e8c79a1f55ed21714",
+    "desktop-input-48.png": "094737e1321814d24e358df43ffd07a45d3d96594d5c2aade4313d08c2270cf6",
+    "desktop-input-16.png": "767fee8f07046b4c2ef4da89d03f5985bf4c8f1c7e3ee77d97b4117b435b5564",
+    "desktop-plain-o.png": "a29f40a20824e71ca05473f74cdbc93e8f42cb4e5203e53d5f04e491d4ba9d0d",
+    "desktop-reading.png": "a2d6d7db94466d383aa6766e1e35777258eaf62d798baaccc31ed55aa460cd9b",
+    "desktop-vertical-ruby.png": "e70dab6ad4bc3cd9f620c11d259b5debbce6b9ad1ed31ae32270bb7dfea29d68",
+    "mobile-hero.png": "1a1a0f686fa143a175a56af07f9ed525f984be9d3e90110ff63f902e99f0ec0d",
+    "mobile-input.png": "d42682ff0940550000b0056f4e908e714eff57418ac56156dbe69af12a4221bd"
+  },
+  "browser_observations": {
+    "font_load_nonempty": true,
+    "plain_o_toggle_changes_visible_glyph": true,
+    "sizes_tested_px": [
+      16,
+      24,
+      48
+    ],
+    "vertical_ruby_contained_after_fix": true,
+    "missing_unicorn_input_reported": 1,
+    "mobile_viewport": {
+      "width": 390,
+      "height": 844,
+      "horizontal_overflow_count": 0
+    }
+  },
+  "limitations": "All 15624 characters were checked by cmap; individual visual review covers the reference and supplemental sets plus reading samples."
+}
